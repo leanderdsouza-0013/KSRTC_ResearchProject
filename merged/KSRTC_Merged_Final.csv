@@ -1,0 +1,543 @@
+From,Destination,Service Class,Via Place,Time,Slot Label,District,State,Population_Millions,Urbanisation Level,Region_Type,Interstate_Flag,Start,End,Urban_Level_Num,Interstate_Flag_Num,Time_Score,Crowd_Risk_Score,Crowd_Risk_Level
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",05:20:00,2 AM - 6 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,02:00:00,06:00:00,4,0,1,1.814,Medium
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",05:50:00,2 AM - 6 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,02:00:00,06:00:00,4,0,1,1.814,Medium
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",06:00:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",06:20:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",06:45:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Bengaluru,Kundapura,Multi Axle,Udupi,05:00:00,2 AM - 6 AM,Udupi,Karnataka,1.34,Low,Mid Rural,No,02:00:00,06:00:00,1,0,1,0.9020000000000001,Very Low
+Mangaluru,Mysuru,Express,Madikeri,05:00:00,2 AM - 6 AM,Mysore,Karnataka,3.42,Very High,Top Urban,No,02:00:00,06:00:00,5,0,1,2.3259999999999996,High
+Mangaluru,Yenepoya,Limited,Thokkottu,05:00:00,2 AM - 6 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,02:00:00,06:00:00,4,0,1,1.814,Medium
+Mangaluru,Mudipu,Limited,Thokkottu,05:00:00,2 AM - 6 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,02:00:00,06:00:00,4,0,1,1.814,Medium
+Mangaluru,Yenepoya,Rajahamsa,Thokkottu,05:00:00,2 AM - 6 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,02:00:00,06:00:00,4,0,1,1.814,Medium
+Mysuru,Manipal,Multi Axle,Udupi,05:05:00,2 AM - 6 AM,Udupi,Karnataka,1.34,Low,Mid Rural,No,02:00:00,06:00:00,1,0,1,0.9020000000000001,Very Low
+Mysuru,Udupi,Rajahamsa,Udupi,05:10:00,2 AM - 6 AM,Udupi,Karnataka,1.34,Low,Mid Rural,No,02:00:00,06:00:00,1,0,1,0.9020000000000001,Very Low
+Bengaluru,Kundapura,Non Ac Sleeper,Udupi,05:10:00,2 AM - 6 AM,Udupi,Karnataka,1.34,Low,Mid Rural,No,02:00:00,06:00:00,1,0,1,0.9020000000000001,Very Low
+Mysuru,Udupi,Rajahamsa,Udupi,05:15:00,2 AM - 6 AM,Udupi,Karnataka,1.34,Low,Mid Rural,No,02:00:00,06:00:00,1,0,1,0.9020000000000001,Very Low
+Mangaluru,Bagalakote,Express,Kumta,05:15:00,2 AM - 6 AM,Bagalkot,Karnataka,2.15,Moderate,Semi Urban,No,02:00:00,06:00:00,3,0,1,1.5450000000000002,Low
+Bengaluru,Manipal,Non Ac Sleeper,Udupi,05:20:00,2 AM - 6 AM,Udupi,Karnataka,1.34,Low,Mid Rural,No,02:00:00,06:00:00,1,0,1,0.9020000000000001,Very Low
+Mysuru,Udupi,Non Ac Sleeper,Udupi,05:25:00,2 AM - 6 AM,Udupi,Karnataka,1.34,Low,Mid Rural,No,02:00:00,06:00:00,1,0,1,0.9020000000000001,Very Low
+Mangaluru,Davanagere,Express,"BC Road, Belthangadi",05:30:00,2 AM - 6 AM,Davanagere,Karnataka,2.22,High,Mid Urban,No,02:00:00,06:00:00,4,0,1,1.7660000000000002,Medium
+Mangaluru,Subramanya,Limited,Uppinangadi,05:30:00,2 AM - 6 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,02:00:00,06:00:00,4,0,1,1.814,Medium
+Mangaluru,Mysuru,Express,Madikeri,05:30:00,2 AM - 6 AM,Mysore,Karnataka,3.42,Very High,Top Urban,No,02:00:00,06:00:00,5,0,1,2.3259999999999996,High
+Mangaluru,Yenepoya,Express,Thokkottu,05:30:00,2 AM - 6 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,02:00:00,06:00:00,4,0,1,1.814,Medium
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",05:40:00,2 AM - 6 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,02:00:00,06:00:00,4,0,1,1.814,Medium
+Mangaluru,Puttur ,Express,B.C.Road,05:40:00,2 AM - 6 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,02:00:00,06:00:00,4,0,1,1.814,Medium
+Bengaluru,Kundapura,Multi Axle,Udupi,05:45:00,2 AM - 6 AM,Udupi,Karnataka,1.34,Low,Mid Rural,No,02:00:00,06:00:00,1,0,1,0.9020000000000001,Very Low
+Bengaluru,Udupi,Non Ac Sleeper,Udupi,05:45:00,2 AM - 6 AM,Udupi,Karnataka,1.34,Low,Mid Rural,No,02:00:00,06:00:00,1,0,1,0.9020000000000001,Very Low
+Bengaluru,Kundapura,Multi Axle,Udupi,05:45:00,2 AM - 6 AM,Udupi,Karnataka,1.34,Low,Mid Rural,No,02:00:00,06:00:00,1,0,1,0.9020000000000001,Very Low
+Bengaluru,Kundapura,Dream class,Udupi,05:45:00,2 AM - 6 AM,Udupi,Karnataka,1.34,Low,Mid Rural,No,02:00:00,06:00:00,1,0,1,0.9020000000000001,Very Low
+Mangaluru,Bengaluru,Express,Sakleshpura,05:45:00,2 AM - 6 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,02:00:00,06:00:00,5,0,1,4.588,Very High
+Mangaluru,Puttur,Express,B.C.Road,05:50:00,2 AM - 6 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,02:00:00,06:00:00,4,0,1,1.814,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",05:55:00,2 AM - 6 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,02:00:00,06:00:00,1,1,1,1.108,Very Low
+Mangaluru,Mudipu,Limited,Thokkottu,06:00:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kanhangad,Express,"Thokkottu, Kumble",06:00:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Bengaluru,Kundapura,Rajahamsa,Udupi,06:00:00,6 AM - 10 AM,Udupi,Karnataka,1.34,Low,Mid Rural,No,06:00:00,10:00:00,1,0,3,1.502,Low
+Bengaluru,Kundapura,Dream class,Udupi,06:00:00,6 AM - 10 AM,Udupi,Karnataka,1.34,Low,Mid Rural,No,06:00:00,10:00:00,1,0,3,1.502,Low
+Bengaluru,Manipal,Multi Axle,Udupi,06:00:00,6 AM - 10 AM,Udupi,Karnataka,1.34,Low,Mid Rural,No,06:00:00,10:00:00,1,0,3,1.502,Low
+Mangaluru,Bengaluru,Volvo,Sakleshpura,06:00:00,6 AM - 10 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Subramanya,Limited,Uppinangadi,06:00:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mysuru,Bengaluru,Express,Madikeri,06:00:00,6 AM - 10 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Yenepoya,Limited,Thokkottu,06:00:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Yenepoya,Limited,Thokkottu,06:00:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:04:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Bengaluru,Kundapura,Ambari utsav,Udupi,06:05:00,6 AM - 10 AM,Udupi,Karnataka,1.34,Low,Mid Rural,No,06:00:00,10:00:00,1,0,3,1.502,Low
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:08:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Mudipu,Limited,Thokkottu,06:10:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:12:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Yenepoya,Non Ac Sleeper,Thokkottu,06:15:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",06:15:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:16:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Parapu,Limited,Thokkottu,06:20:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kateelu,Limited,Surathkal,06:20:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:20:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:24:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:28:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Chikkamagaluru,Express,"BC Road, Belthangadi",06:30:00,6 AM - 10 AM,Chikmagalur,Karnataka,1.3,Low,Mid Rural,No,06:00:00,10:00:00,1,0,3,1.49,Low
+Mangaluru,Mudipu,Limited,Thokkottu,06:30:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Gramachavadi,Limited,Thokkottu,06:30:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Laxmeshwar,Express,Kumta,06:30:00,6 AM - 10 AM,Gadag,Karnataka,1.21,Very Low,Top Rural,No,06:00:00,10:00:00,0,0,3,1.263,Very Low
+Mangaluru,Hindupura,Express,Sakleshpura,06:30:00,6 AM - 10 AM,Sri Sathya Sai,Andhra Pradesh,1.84,Medium,Semi Rural,Yes,06:00:00,10:00:00,2,1,3,2.052,Moderate
+Mangaluru,Subramanya,Limited,Uppinangadi,06:30:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mysuru,Bengaluru,Express,Madikeri,06:30:00,6 AM - 10 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:32:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:36:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:40:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",06:40:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:44:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Mudipu,Limited,Thokkottu,06:45:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:48:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Phajeer,Limited,Farangipete,06:50:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:52:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:56:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Valiyullahi Dargha Shareef Jardgaudde Ammembala,Limited,Thokkottu,07:00:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Polali,Limited,Nanthur,07:00:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:00:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Bengaluru,Multi Axle,Sakleshpura,07:00:00,6 AM - 10 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Bengaluru,Express,Sakleshpura,07:00:00,6 AM - 10 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Subramanya,Limited,Uppinangadi,07:00:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Mysuru,Express,Madikeri,07:00:00,6 AM - 10 AM,Mysore,Karnataka,3.42,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,2.9259999999999997,Very High
+Mangaluru,Mermajalu,Ordinary,Farangipete,07:00:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Farangipete,Ordinary,Farangipete,07:00:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Yenepoya,Non Ac Sleeper,Thokkottu,07:00:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Yenepoya,Express,Thokkottu,07:00:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:04:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:08:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Rehamathnagar,Limited,Thokkottu,07:10:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kadegoli,Ordinary,Farangipete,07:10:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Yenepoya,Express,Thokkottu,07:10:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:12:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",07:15:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Davanagere,Express,"BC Road, Belthangadi",07:15:00,6 AM - 10 AM,Davanagere,Karnataka,2.22,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.366,High
+Mangaluru,Mudipu,Limited,Thokkottu,07:15:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Haveri,Express,Kumta,07:15:00,6 AM - 10 AM,Haveri,Karnataka,1.82,Medium,Semi Rural,No,06:00:00,10:00:00,2,0,3,1.846,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:16:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Adyar Padavu,Limited,Padil,07:20:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:20:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:24:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",07:25:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Bokkapatna,Ordinary,Thokkottu,07:25:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:27:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:30:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Savadatti Yallamma,Express,Kumta,07:30:00,6 AM - 10 AM,Belagavi,Karnataka,5.44,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,3.532,Very High
+Mangaluru,Subramanya,Limited,Uppinangadi,07:30:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Kundapura,Mysuru,Express,Madikeri,07:30:00,6 AM - 10 AM,Mysore,Karnataka,3.42,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,2.9259999999999997,Very High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:33:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:36:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:39:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:42:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Davanagere,Express,"BC Road, Belthangadi",07:45:00,6 AM - 10 AM,Davanagere,Karnataka,2.22,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.366,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:45:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Bagalakote,Express,Kumta,07:45:00,6 AM - 10 AM,Bagalkot,Karnataka,2.15,Moderate,Semi Urban,No,06:00:00,10:00:00,3,0,3,2.145,Moderate
+Mangaluru,Bengaluru,Rajahamsa,Sakleshpura,07:45:00,6 AM - 10 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:48:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:51:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:54:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Mudipu,Limited,Thokkottu,08:00:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Hubballi,Express,Kumta,08:00:00,6 AM - 10 AM,Dharwad,Karnataka,2.1,Moderate,Semi Urban,No,06:00:00,10:00:00,3,0,3,2.13,Moderate
+Mangaluru,Bengaluru,Multi Axle,Sakleshpura,08:00:00,6 AM - 10 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Subramanya,Limited,Uppinangadi,08:00:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Udupi,Mysuru,Express,Madikeri,08:00:00,6 AM - 10 AM,Mysore,Karnataka,3.42,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,2.9259999999999997,Very High
+Kundapura,Bengaluru,Express,Sakleshpura,08:15:00,6 AM - 10 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Mysuru,Express,Madikeri,08:15:00,6 AM - 10 AM,Mysore,Karnataka,3.42,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,2.9259999999999997,Very High
+Mangaluru,Davanagere,Express,"BC Road, Belthangadi",08:30:00,6 AM - 10 AM,Davanagere,Karnataka,2.22,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.366,High
+Mangaluru,Mudipu,Limited,Thokkottu,08:30:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Puttur,Panaji,Express,"Kumta, Karwar",08:30:00,6 AM - 10 AM,North Goa,Goa,0.85,Very Low,Top Rural,Yes,06:00:00,10:00:00,0,1,3,1.355,Low
+Mangaluru,Subramanya,Limited,Uppinangadi,08:30:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Mysuru,Express,Madikeri,08:30:00,6 AM - 10 AM,Mysore,Karnataka,3.42,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,2.9259999999999997,Very High
+Mangaluru,Bengaluru,Multi Axle,Mysuru,08:30:00,6 AM - 10 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",08:45:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Hubballi,Express,Kumta,08:45:00,6 AM - 10 AM,Dharwad,Karnataka,2.1,Moderate,Semi Urban,No,06:00:00,10:00:00,3,0,3,2.13,Moderate
+Mangaluru,Bengaluru,Express,Sakleshpura,09:00:00,6 AM - 10 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Chikkamagaluru,Express,"BC Road, Belthangadi",09:00:00,6 AM - 10 AM,Chikmagalur,Karnataka,1.3,Low,Mid Rural,No,06:00:00,10:00:00,1,0,3,1.49,Low
+Mangaluru,Mudipu,Limited,Thokkottu,09:00:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Belagavi,Express,Karwar,09:00:00,6 AM - 10 AM,Belagavi,Karnataka,5.44,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,3.532,Very High
+Mangaluru,Bengaluru,Multi Axle,Sakleshpura,09:00:00,6 AM - 10 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Subramanya,Limited,Uppinangadi,09:00:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Bengaluru,Express,Mysuru,09:00:00,6 AM - 10 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Vitla,Ordinary,Farangipete,09:00:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",09:10:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",09:15:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Bengaluru,Express,Sakleshpura,09:15:00,6 AM - 10 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Mudipu,Limited,Thokkottu,09:20:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Davanagere,Express,"BC Road, Belthangadi",09:30:00,6 AM - 10 AM,Davanagere,Karnataka,2.22,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.366,High
+Mangaluru,Rehamathnagar,Limited,Thokkottu,09:30:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Adyar Padavu,Limited,Padil,09:30:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Puttur,Hubballi,Express,Kumta,09:30:00,6 AM - 10 AM,Dharwad,Karnataka,2.1,Moderate,Semi Urban,No,06:00:00,10:00:00,3,0,3,2.13,Moderate
+Mangaluru,Bengaluru,Rajahamsa,Sakleshpura,09:30:00,6 AM - 10 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Subramanya,Limited,Uppinangadi,09:30:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Udupi,Chamarajanagar,Express,Madikeri,09:30:00,6 AM - 10 AM,Chamarajanagar,Karnataka,1.16,Very Low,Top Rural,No,06:00:00,10:00:00,0,0,3,1.2479999999999998,Very Low
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",09:35:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Parapu,Limited,Thokkottu,09:40:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Hubballi,Express,Kumta,09:45:00,6 AM - 10 AM,Dharwad,Karnataka,2.1,Moderate,Semi Urban,No,06:00:00,10:00:00,3,0,3,2.13,Moderate
+Mangaluru,Bengaluru,Express,Sakleshpura,09:45:00,6 AM - 10 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Bengaluru,Express,Mysuru,09:45:00,6 AM - 10 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,06:00:00,10:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Kateelu,Limited,Surathkal,09:47:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Mudipu,Limited,Thokkottu,09:50:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Vitla,Ordinary,Farangipete,09:50:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Mudipu,Limited,Thokkottu,09:55:00,6 AM - 10 AM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,06:00:00,10:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",09:57:00,6 AM - 10 AM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,06:00:00,10:00:00,1,1,3,1.708,Medium
+Mangaluru,Shivamogga,Express,"BC Road, Belthangadi",10:00:00,10 AM - 2 PM,Shimoga,Karnataka,2.0,Moderate,Semi Urban,No,10:00:00,14:00:00,3,0,3,2.1,Moderate
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:00:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Savadatti Yallamma,Express,Kumta,10:00:00,10 AM - 2 PM,Belagavi,Karnataka,5.44,Very High,Top Urban,No,10:00:00,14:00:00,5,0,3,3.532,Very High
+Mangaluru,Channarayapatna,Express,Sakleshpura,10:00:00,10 AM - 2 PM,Hassan,Karnataka,2.02,Moderate,Semi Urban,No,10:00:00,14:00:00,3,0,3,2.106,Moderate
+Mangaluru,Bengaluru,Multi Axle,Sakleshpura,10:00:00,10 AM - 2 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,10:00:00,14:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Subramanya,Limited,Uppinangadi,10:00:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Bengaluru,Express,Mysuru,10:00:00,10 AM - 2 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,10:00:00,14:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Bengaluru,Volvo,Mysuru,10:00:00,10 AM - 2 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,10:00:00,14:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",10:00:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:03:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",10:05:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:06:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:09:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Mudipu,Limited,Thokkottu,10:10:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Uppinangady,Limited,Uppinangadi,10:10:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:12:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Kadur,Express,"BC Road, Belthangadi",10:15:00,10 AM - 2 PM,Chikmagalur,Karnataka,1.3,Low,Mid Rural,No,10:00:00,14:00:00,1,0,3,1.49,Low
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:15:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Bengaluru,Express,Sakleshpura,10:15:00,10 AM - 2 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,10:00:00,14:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Bengaluru,Express,Mysuru,10:15:00,10 AM - 2 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,10:00:00,14:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:18:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Mudipu,Limited,Thokkottu,10:20:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Shishila,Ordinary,Uppinangadi,10:20:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Puttur,Express,B.C.Road,10:20:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:21:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:24:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",10:25:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:27:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Kadur,Express,"BC Road, Belthangadi",10:30:00,10 AM - 2 PM,Chikmagalur,Karnataka,1.3,Low,Mid Rural,No,10:00:00,14:00:00,1,0,3,1.49,Low
+Mangaluru,Polali,Ordinary,Thokkottu,10:30:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:30:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Hubballi,Express,Kumta,10:30:00,10 AM - 2 PM,Dharwad,Karnataka,2.1,Moderate,Semi Urban,No,10:00:00,14:00:00,3,0,3,2.13,Moderate
+Mangaluru,Bengaluru,Express,Sakleshpura,10:30:00,10 AM - 2 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,10:00:00,14:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Subramanya,Limited,Uppinangadi,10:30:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Udupi,Mysuru,Express,Madikeri,10:30:00,10 AM - 2 PM,Mysore,Karnataka,3.42,Very High,Top Urban,No,10:00:00,14:00:00,5,0,3,2.9259999999999997,Very High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:36:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:39:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:42:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:45:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:45:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Belagavi,Express,Kumta,10:45:00,10 AM - 2 PM,Belagavi,Karnataka,5.44,Very High,Top Urban,No,10:00:00,14:00:00,5,0,3,3.532,Very High
+Mangaluru,Subramanya,Limited,Uppinangadi,10:45:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",10:45:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:48:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Mudipu,Limited,Thokkottu,10:50:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:51:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:54:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:57:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Shivamogga,Express,"BC Road, Belthangadi",11:00:00,10 AM - 2 PM,Shimoga,Karnataka,2.0,Moderate,Semi Urban,No,10:00:00,14:00:00,3,0,3,2.1,Moderate
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:00:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Gokarna,Express,Kumta,11:00:00,10 AM - 2 PM,Uttara Kannada,Karnataka,1.64,Medium,Semi Rural,No,10:00:00,14:00:00,2,0,3,1.7919999999999998,Medium
+Mangaluru,Bengaluru,Multi Axle,Sakleshpura,11:00:00,10 AM - 2 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,10:00:00,14:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Bengaluru,Express,Sakleshpura,11:00:00,10 AM - 2 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,10:00:00,14:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Subramanya,Limited,Uppinangadi,11:00:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Virajpet,Express,Madikeri,11:00:00,10 AM - 2 PM,Kodagu,Karnataka,0.63,Very Low,Top Rural,No,10:00:00,14:00:00,0,0,3,1.089,Very Low
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:03:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:06:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:09:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:12:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:15:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Subramanya,Karwar,Express,Kumta,11:15:00,10 AM - 2 PM,Uttara Kannada,Karnataka,1.64,Medium,Semi Rural,No,10:00:00,14:00:00,2,0,3,1.7919999999999998,Medium
+Kundapura,Mysuru,Express,Madikeri,11:15:00,10 AM - 2 PM,Mysore,Karnataka,3.42,Very High,Top Urban,No,10:00:00,14:00:00,5,0,3,2.9259999999999997,Very High
+Mangaluru,B.C.Road,Express,Farangipete,11:15:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:18:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Mudipu,Limited,Thokkottu,11:20:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:21:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:24:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",11:25:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:27:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Kadur,Express,"BC Road, Belthangadi",11:30:00,10 AM - 2 PM,Chikmagalur,Karnataka,1.3,Low,Mid Rural,No,10:00:00,14:00:00,1,0,3,1.49,Low
+Mangaluru,Mudipu,Limited,Thokkottu,11:30:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Adyar Padavu,Limited,Padil,11:30:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:30:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Dharmasthala,Karwar,Express,Kumta,11:30:00,10 AM - 2 PM,Uttara Kannada,Karnataka,1.64,Medium,Semi Rural,No,10:00:00,14:00:00,2,0,3,1.7919999999999998,Medium
+Mangaluru,Subrahmanya,Limited,Uppinangadi,11:30:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Madikeri,Express,Puttur,11:30:00,10 AM - 2 PM,Kodagu,Karnataka,0.63,Very Low,Top Rural,No,10:00:00,14:00:00,0,0,3,1.089,Very Low
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:34:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",11:35:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:38:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Bengaluru,Express,Sakleshpura,11:40:00,10 AM - 2 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,10:00:00,14:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:42:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Bengaluru,Volvo,Mysuru,11:45:00,10 AM - 2 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,10:00:00,14:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:46:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",11:50:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:50:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:55:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Birur,Express,"BC Road, Belthangadi",12:00:00,10 AM - 2 PM,Chikmagalur,Karnataka,1.3,Low,Mid Rural,No,10:00:00,14:00:00,1,0,3,1.49,Low
+Mangaluru,Rehamathnagar,Limited,Thokkottu,12:00:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Tirupati,Multi Axle,Sakleshpura,12:00:00,10 AM - 2 PM,Tirupati,Andhra Pradesh,2.2,High,Mid Urban,Yes,10:00:00,14:00:00,4,1,3,2.5599999999999996,High
+Mangaluru,Holenarasipur ,Express,Sakleshpura,12:00:00,10 AM - 2 PM,Hassan,Karnataka,2.02,Moderate,Semi Urban,No,10:00:00,14:00:00,3,0,3,2.106,Moderate
+Kundapura,Mysuru,Express,Madikeri,12:00:00,10 AM - 2 PM,Mysore,Karnataka,3.42,Very High,Top Urban,No,10:00:00,14:00:00,5,0,3,2.9259999999999997,Very High
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",12:10:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Mudipu,Limited,Thokkottu,12:15:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Belagavi,Express,Kumta,12:15:00,10 AM - 2 PM,Belagavi,Karnataka,5.44,Very High,Top Urban,No,10:00:00,14:00:00,5,0,3,3.532,Very High
+Mangaluru,Hassan,Express,"BC Road, Belthangadi",12:30:00,10 AM - 2 PM,Hassan,Karnataka,2.02,Moderate,Semi Urban,No,10:00:00,14:00:00,3,0,3,2.106,Moderate
+Mangaluru,Mudipu,Limited,Thokkottu,12:30:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Bengaluru,Rajahamsa,Sakleshpura,12:30:00,10 AM - 2 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,10:00:00,14:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Madikeri,Express,Puttur,12:30:00,10 AM - 2 PM,Kodagu,Karnataka,0.63,Very Low,Top Rural,No,10:00:00,14:00:00,0,0,3,1.089,Very Low
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",12:35:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kadur,Express,"BC Road, Belthangadi",12:45:00,10 AM - 2 PM,Chikmagalur,Karnataka,1.3,Low,Mid Rural,No,10:00:00,14:00:00,1,0,3,1.49,Low
+Mangaluru,Kateelu,Ordinary,Thokkottu,12:45:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Mumbai,Multi Axle,Kumta,12:45:00,10 AM - 2 PM,Mumbai Suburban,Maharashtra,10.4,Very High,Top Urban,Yes,10:00:00,14:00:00,5,1,3,5.220000000000001,Very High
+Mangaluru,Arsikere,Express,Sakleshpura,12:45:00,10 AM - 2 PM,Hassan,Karnataka,2.02,Moderate,Semi Urban,No,10:00:00,14:00:00,3,0,3,2.106,Moderate
+Mangaluru,Kutta,Express,Puttur,12:45:00,10 AM - 2 PM,Kodagu,Karnataka,0.63,Very Low,Top Rural,No,10:00:00,14:00:00,0,0,3,1.089,Very Low
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",12:50:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Mudipu,Limited,Thokkottu,12:50:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Chikkamagaluru,Express,"BC Road, Belthangadi",13:00:00,10 AM - 2 PM,Chikmagalur,Karnataka,1.3,Low,Mid Rural,No,10:00:00,14:00:00,1,0,3,1.49,Low
+Mangaluru,Ghatterga,Express,Kumta,13:00:00,10 AM - 2 PM,Gulbarga,Karnataka,2.92,Very High,Top Urban,No,10:00:00,14:00:00,5,0,3,2.776,High
+Mangaluru,Bengaluru,Express,Sakleshpura,13:00:00,10 AM - 2 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,10:00:00,14:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Bengaluru,Multi Axle,Sakleshpura,13:00:00,10 AM - 2 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,10:00:00,14:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Subramanya,Limited,Uppinangadi,13:00:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Uppinangady,Limited,Uppinangadi,13:15:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Mysuru,Express,Madikeri,13:15:00,10 AM - 2 PM,Mysore,Karnataka,3.42,Very High,Top Urban,No,10:00:00,14:00:00,5,0,3,2.9259999999999997,Very High
+Mangaluru,Parapu,Limited,Thokkottu,13:20:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Somwarpet,Express,Sakleshpura,13:20:00,10 AM - 2 PM,Kodagu,Karnataka,0.63,Very Low,Top Rural,No,10:00:00,14:00:00,0,0,3,1.089,Very Low
+Hubballi,Dharmasthala,Express,"BC Road, Belthangadi",13:30:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kadur,Express,"BC Road, Belthangadi",13:30:00,10 AM - 2 PM,Chikmagalur,Karnataka,1.3,Low,Mid Rural,No,10:00:00,14:00:00,1,0,3,1.49,Low
+Mangaluru,Mudipu,Limited,Thokkottu,13:30:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mysuru,Gokarna,Express,Kumta,13:30:00,10 AM - 2 PM,Uttara Kannada,Karnataka,1.64,Medium,Semi Rural,No,10:00:00,14:00:00,2,0,3,1.7919999999999998,Medium
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",13:45:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Hassan,Express,"BC Road, Belthangadi",13:45:00,10 AM - 2 PM,Hassan,Karnataka,2.02,Moderate,Semi Urban,No,10:00:00,14:00:00,3,0,3,2.106,Moderate
+Mangaluru,Bengaluru,Express,Sakleshpura,13:45:00,10 AM - 2 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,10:00:00,14:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Subramanya,Limited,Uppinangadi,13:45:00,10 AM - 2 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,10:00:00,14:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",13:57:00,10 AM - 2 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,10:00:00,14:00:00,1,1,3,1.708,Medium
+Mangaluru,Kadur,Express,"BC Road, Belthangadi",14:00:00,2 PM - 6 PM,Chikmagalur,Karnataka,1.3,Low,Mid Rural,No,14:00:00,18:00:00,1,0,3,1.49,Low
+Mangaluru,Mudipu,Limited,Thokkottu,14:00:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:00:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Belagavi,Express,Kumta,14:00:00,2 PM - 6 PM,Belagavi,Karnataka,5.44,Very High,Top Urban,No,14:00:00,18:00:00,5,0,3,3.532,Very High
+Mangaluru,Tirupati,Multi Axle,Sakleshpura,14:00:00,2 PM - 6 PM,Tirupati,Andhra Pradesh,2.2,High,Mid Urban,Yes,14:00:00,18:00:00,4,1,3,2.5599999999999996,High
+Mangaluru,Holenarasipur ,Express,Sakleshpura,14:00:00,2 PM - 6 PM,Hassan,Karnataka,2.02,Moderate,Semi Urban,No,14:00:00,18:00:00,3,0,3,2.106,Moderate
+Kundapura,Mysuru,Rajahamsa,Madikeri,14:00:00,2 PM - 6 PM,Mysore,Karnataka,3.42,Very High,Top Urban,No,14:00:00,18:00:00,5,0,3,2.9259999999999997,Very High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:03:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:06:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:09:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:12:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Karwar,Dharmasthala,Express,"BC Road, Belthangadi",14:15:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:15:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Gokarna,Volvo,Kumta,14:15:00,2 PM - 6 PM,Uttara Kannada,Karnataka,1.64,Medium,Semi Rural,No,14:00:00,18:00:00,2,0,3,1.7919999999999998,Medium
+Mysuru,Kundapura,Express,Udupi,14:15:00,2 PM - 6 PM,Udupi,Karnataka,1.34,Low,Mid Rural,No,14:00:00,18:00:00,1,0,3,1.502,Low
+Mangaluru,Madikeri,Express,Puttur,14:15:00,2 PM - 6 PM,Kodagu,Karnataka,0.63,Very Low,Top Rural,No,14:00:00,18:00:00,0,0,3,1.089,Very Low
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:18:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:21:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:24:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Rehamathnagar,Limited,Thokkottu,14:25:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:27:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Hosadurga,Express,"BC Road, Belthangadi",14:30:00,2 PM - 6 PM,Chitradurga,Karnataka,1.89,Medium,Semi Rural,No,14:00:00,18:00:00,2,0,3,1.867,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:30:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Kalaburagi,Express,Kumta,14:30:00,2 PM - 6 PM,Gulbarga,Karnataka,2.92,Very High,Top Urban,No,14:00:00,18:00:00,5,0,3,2.776,High
+Mangaluru,Bengaluru,Express,Sakleshpura,14:30:00,2 PM - 6 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,14:00:00,18:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Subramanya,Limited,Uppinangadi,14:30:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Madikeri,Express,Puttur,14:30:00,2 PM - 6 PM,Kodagu,Karnataka,0.63,Very Low,Top Rural,No,14:00:00,18:00:00,0,0,3,1.089,Very Low
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:33:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Mudipu,Limited,Thokkottu,14:35:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:36:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:39:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Kumta,Express,Kumta,14:40:00,2 PM - 6 PM,Uttara Kannada,Karnataka,1.64,Medium,Semi Rural,No,14:00:00,18:00:00,2,0,3,1.7919999999999998,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:42:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",14:45:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:45:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Hassan,Express,Sakleshpura,14:45:00,2 PM - 6 PM,Hassan,Karnataka,2.02,Moderate,Semi Urban,No,14:00:00,18:00:00,3,0,3,2.106,Moderate
+Mangaluru,Shishila,Ordinary,Uppinangadi,14:45:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Puttur,Express,B.C.Road,14:45:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:48:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:51:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:54:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Valiyullahi Dargha Shareef Jardgaudde Ammembala,Limited,Thokkottu,14:55:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:57:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Kayarthadka,Limited,"BC Road, Belthangadi",15:00:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",15:00:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kadur,Express,"BC Road, Belthangadi",15:00:00,2 PM - 6 PM,Chikmagalur,Karnataka,1.3,Low,Mid Rural,No,14:00:00,18:00:00,1,0,3,1.49,Low
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:00:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Hyderabad,Dream class,Kumta,15:00:00,2 PM - 6 PM,Hyderabad,Telangana,4.28,Very High,Top Urban,Yes,14:00:00,18:00:00,5,1,3,3.384,Very High
+Bengaluru,Kundapura,Express,Udupi,15:00:00,2 PM - 6 PM,Udupi,Karnataka,1.34,Low,Mid Rural,No,14:00:00,18:00:00,1,0,3,1.502,Low
+Mangaluru,Subramanya,Limited,Uppinangadi,15:00:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Madurai,Express,Mysuru,15:00:00,2 PM - 6 PM,Madurai,Tamil Nadu,3.52,Very High,Top Urban,Yes,14:00:00,18:00:00,5,1,3,3.156,Very High
+Mangaluru,B.C.Road,Ordinary,Farangipete,15:00:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:03:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Bengaluru,Multi Axle,Sakleshpura,15:03:00,2 PM - 6 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,14:00:00,18:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:06:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:09:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:12:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Mudipu,Limited,Thokkottu,15:15:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Adyar padavu,Limited,Padil,15:15:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:15:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Sindagi,Express,Kumta,15:15:00,2 PM - 6 PM,Bijapur,Karnataka,2.48,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.444,High
+Mangaluru,Sirsi,Volvo,Kumta,15:15:00,2 PM - 6 PM,Uttara Kannada,Karnataka,1.64,Medium,Semi Rural,No,14:00:00,18:00:00,2,0,3,1.7919999999999998,Medium
+Mangaluru,Bengaluru,Express,Sakleshpura,15:15:00,2 PM - 6 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,14:00:00,18:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:18:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:21:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:24:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Somwarpet,Express,Madikeri,15:25:00,2 PM - 6 PM,Kodagu,Karnataka,0.63,Very Low,Top Rural,No,14:00:00,18:00:00,0,0,3,1.089,Very Low
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:27:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",15:30:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Chikkamagaluru,Express,"BC Road, Belthangadi",15:30:00,2 PM - 6 PM,Chikmagalur,Karnataka,1.3,Low,Mid Rural,No,14:00:00,18:00:00,1,0,3,1.49,Low
+Mangaluru,Gramachavadi,Limited,Thokkottu,15:30:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Talikoti,Express,Kumta,15:30:00,2 PM - 6 PM,Bijapur,Karnataka,2.48,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.444,High
+Mysuru,Kundapura,Express,Udupi,15:30:00,2 PM - 6 PM,Udupi,Karnataka,1.34,Low,Mid Rural,No,14:00:00,18:00:00,1,0,3,1.502,Low
+Mangaluru,Subramanya,Limited,Uppinangadi,15:30:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Mantralayam,Non Ac Sleeper,Udupi,15:30:00,2 PM - 6 PM,Kurnool,Andhra Pradesh,2.27,High,Mid Urban,Yes,14:00:00,18:00:00,4,1,3,2.5809999999999995,High
+Mangaluru,Coimbatore,Volvo,Mysuru,15:30:00,2 PM - 6 PM,Coimbatore,Tamil Nadu,4.01,Very High,Top Urban,Yes,14:00:00,18:00:00,5,1,3,3.303,Very High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:31:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:35:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:39:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:43:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mysuru,Kundapura,Rajahamsa,Udupi,15:45:00,2 PM - 6 PM,Udupi,Karnataka,1.34,Low,Mid Rural,No,14:00:00,18:00:00,1,0,3,1.502,Low
+Mysuru,Kundapura,Rajahamsa,Udupi,15:45:00,2 PM - 6 PM,Udupi,Karnataka,1.34,Low,Mid Rural,No,14:00:00,18:00:00,1,0,3,1.502,Low
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:47:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:51:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:55:00,2 PM - 6 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,14:00:00,18:00:00,1,1,3,1.708,Medium
+Mangaluru,Kadur,Express,"BC Road, Belthangadi",16:00:00,2 PM - 6 PM,Chikmagalur,Karnataka,1.3,Low,Mid Rural,No,14:00:00,18:00:00,1,0,3,1.49,Low
+Mangaluru,Hanmanhal,Express,Kumta,16:00:00,2 PM - 6 PM,Koppal,Karnataka,1.58,Low,Mid Rural,No,14:00:00,18:00:00,1,0,3,1.5739999999999998,Low
+Mangaluru,Pune,Ambari utsav,Kumta,16:00:00,2 PM - 6 PM,Pune,Maharashtra,10.48,Very High,Top Urban,Yes,14:00:00,18:00:00,5,1,3,5.244,Very High
+Mysore,Udupi,Express,Mangaluru,16:00:00,2 PM - 6 PM,Udupi,Karnataka,1.34,Low,Mid Rural,No,14:00:00,18:00:00,1,0,3,1.502,Low
+Mangaluru,Hassan,Express,Sakleshpura,16:00:00,2 PM - 6 PM,Hassan,Karnataka,2.02,Moderate,Semi Urban,No,14:00:00,18:00:00,3,0,3,2.106,Moderate
+Mangaluru,Bengaluru,Multi Axle,Sakleshpura,16:00:00,2 PM - 6 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,14:00:00,18:00:00,5,0,3,5.188000000000001,Very High
+Gokarna,Subramanya,Express,Uppinangadi,16:00:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Raichur,Rajahamsa,Udupi,16:00:00,2 PM - 6 PM,Raichur,Karnataka,2.2,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.36,High
+Mangaluru,Mysuru,Express,Madikeri,16:00:00,2 PM - 6 PM,Mysore,Karnataka,3.42,Very High,Top Urban,No,14:00:00,18:00:00,5,0,3,2.9259999999999997,Very High
+Mangaluru,B.C.Road,Ordinary,Farangipete,16:00:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",16:00:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,B.C.Road,Ordinary,Farangipete,16:05:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Mudipu,Limited,Thokkottu,16:10:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Karwar,Volvo,Kumta,16:15:00,2 PM - 6 PM,Uttara Kannada,Karnataka,1.64,Medium,Semi Rural,No,14:00:00,18:00:00,2,0,3,1.7919999999999998,Medium
+Mangaluru,Karadi,Express,Kumta,16:15:00,2 PM - 6 PM,Bagalkot,Karnataka,2.15,Moderate,Semi Urban,No,14:00:00,18:00:00,3,0,3,2.145,Moderate
+Mangaluru,Kundapura,Rajahamsa,Udupi,16:15:00,2 PM - 6 PM,Udupi,Karnataka,1.34,Low,Mid Rural,No,14:00:00,18:00:00,1,0,3,1.502,Low
+Mangaluru,B.C.Road,Ordinary,Farangipete,16:15:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Phajeer,Ordinary,Farangipete,16:15:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Mudipu,Limited,Thokkottu,16:20:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Mudigere,Express,"BC Road, Belthangadi",16:30:00,2 PM - 6 PM,Chikmagalur,Karnataka,1.3,Low,Mid Rural,No,14:00:00,18:00:00,1,0,3,1.49,Low
+Mangaluru,Parapu,Limited,Thokkottu,16:30:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kushtagi,Express,Kumta,16:30:00,2 PM - 6 PM,Koppal,Karnataka,1.58,Low,Mid Rural,No,14:00:00,18:00:00,1,0,3,1.5739999999999998,Low
+Bengaluru,Kundapura,Multi Axle,Udupi,16:30:00,2 PM - 6 PM,Udupi,Karnataka,1.34,Low,Mid Rural,No,14:00:00,18:00:00,1,0,3,1.502,Low
+Mangaluru,Bengaluru,Express,Sakleshpura,16:30:00,2 PM - 6 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,14:00:00,18:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Subramanya,Limited,Uppinangadi,16:30:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,B.C.Road,Ordinary,Farangipete,16:30:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",16:30:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kateelu,Limited,Surathkal,16:35:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Panaji,Puttur,Express,B.C.Road,16:35:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Mudipu,Limited,Thokkottu,16:40:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mysuru,Udupi,Express,Mangaluru,16:40:00,2 PM - 6 PM,Udupi,Karnataka,1.34,Low,Mid Rural,No,14:00:00,18:00:00,1,0,3,1.502,Low
+Mangaluru,Muddebihal,Express,Kumta,16:45:00,2 PM - 6 PM,Bijapur,Karnataka,2.48,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.444,High
+Mangaluru,Rehamathnagar,Limited,Thokkottu,16:50:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Mudipu,Limited,Thokkottu,17:00:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Polali,Limited,Nanthur,17:00:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Guledagudda,Express,Kumta,17:00:00,2 PM - 6 PM,Bagalkot,Karnataka,2.15,Moderate,Semi Urban,No,14:00:00,18:00:00,3,0,3,2.145,Moderate
+Mysuru,Kundapura,Express,Udupi,17:00:00,2 PM - 6 PM,Udupi,Karnataka,1.34,Low,Mid Rural,No,14:00:00,18:00:00,1,0,3,1.502,Low
+Mangaluru,Kallugudde,Limited,Uppinangadi,17:00:00,2 PM - 6 PM,Chikmagalur,Karnataka,1.3,Low,Mid Rural,No,14:00:00,18:00:00,1,0,3,1.49,Low
+Mangaluru,Raichur,Non Ac Sleeper,Udupi,17:00:00,2 PM - 6 PM,Raichur,Karnataka,2.2,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.36,High
+Mangaluru,Kolar,Express,Mysuru,17:00:00,2 PM - 6 PM,Kolar,Karnataka,1.75,Medium,Semi Rural,No,14:00:00,18:00:00,2,0,3,1.825,Medium
+Mangaluru,B.C.Road,Ordinary,Farangipete,17:00:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Mermajalu,Ordinary,Farangipete,17:00:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Ballari,Express,"BC Road, Belthangadi",17:15:00,2 PM - 6 PM,Bellary,Karnataka,2.79,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.537,High
+Mangaluru,Tawargera,Express,Kumta,17:15:00,2 PM - 6 PM,Koppal,Karnataka,1.58,Low,Mid Rural,No,14:00:00,18:00:00,1,0,3,1.5739999999999998,Low
+Mangaluru,Bengaluru,Express,Sakleshpura,17:15:00,2 PM - 6 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,14:00:00,18:00:00,5,0,3,5.188000000000001,Very High
+Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",17:15:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Bagalakote,Express,Kumta,17:20:00,2 PM - 6 PM,Bagalkot,Karnataka,2.15,Moderate,Semi Urban,No,14:00:00,18:00:00,3,0,3,2.145,Moderate
+Mangaluru,Kundapura,Express,Udupi,17:20:00,2 PM - 6 PM,Udupi,Karnataka,1.34,Low,Mid Rural,No,14:00:00,18:00:00,1,0,3,1.502,Low
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",17:30:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Adyar padavu,Limited,Thokkottu,17:30:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Jamakhandi,Rajahamsa,Kumta,17:30:00,2 PM - 6 PM,Bagalkot,Karnataka,2.15,Moderate,Semi Urban,No,14:00:00,18:00:00,3,0,3,2.145,Moderate
+Karwar,Subramanya,Express,Uppinangadi,17:30:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Harappanahalli,Express,Udupi,17:30:00,2 PM - 6 PM,Davanagere,Karnataka,2.22,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.366,High
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",17:45:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kudala Sangama,Express,Kumta,17:45:00,2 PM - 6 PM,Bagalkot,Karnataka,2.15,Moderate,Semi Urban,No,14:00:00,18:00:00,3,0,3,2.145,Moderate
+Hubballi,Puttur,Express,Mysuru,17:45:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Mudipu,Limited,Thokkottu,17:55:00,2 PM - 6 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,14:00:00,18:00:00,4,0,3,2.4139999999999997,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:00:00,6 PM - 10 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,18:00:00,22:00:00,1,1,2,1.408,Low
+Mangaluru,Ilkal,Express,Kumta,18:00:00,6 PM - 10 PM,Bagalkot,Karnataka,2.15,Moderate,Semi Urban,No,18:00:00,22:00:00,3,0,2,1.8450000000000002,Medium
+Mangaluru,Bengaluru,Express,Sakleshpura,18:00:00,6 PM - 10 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,4.888,Very High
+Mangaluru,Mantralayam,Volvo,Udupi,18:00:00,6 PM - 10 PM,Kurnool,Andhra Pradesh,2.27,High,Mid Urban,Yes,18:00:00,22:00:00,4,1,2,2.2809999999999997,High
+Mangaluru,B.C.Road,Ordinary,Farangipete,18:00:00,6 PM - 10 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.114,Moderate
+Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",18:00:00,6 PM - 10 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.114,Moderate
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:05:00,6 PM - 10 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,18:00:00,22:00:00,1,1,2,1.408,Low
+Mangaluru,Dotihal,Express,Kumta,18:05:00,6 PM - 10 PM,Koppal,Karnataka,1.58,Low,Mid Rural,No,18:00:00,22:00:00,1,0,2,1.274,Very Low
+Bengaluru,Udupi,Express,Udupi,18:05:00,6 PM - 10 PM,Udupi,Karnataka,1.34,Low,Mid Rural,No,18:00:00,22:00:00,1,0,2,1.202,Very Low
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:10:00,6 PM - 10 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,18:00:00,22:00:00,1,1,2,1.408,Low
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:15:00,6 PM - 10 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,18:00:00,22:00:00,1,1,2,1.408,Low
+Mangaluru,Dammur,Express,Kumta,18:15:00,6 PM - 10 PM,Bellary,Karnataka,2.79,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.237,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:20:00,6 PM - 10 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,18:00:00,22:00:00,1,1,2,1.408,Low
+Mangaluru,Charmadi,Limited,"BC Road, Belthangadi",18:25:00,6 PM - 10 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.114,Moderate
+Mangaluru,Mudipu,Limited,Thokkottu,18:25:00,6 PM - 10 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.114,Moderate
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:25:00,6 PM - 10 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,18:00:00,22:00:00,1,1,2,1.408,Low
+Mangaluru,B.C.Road,Ordinary,Farangipete,18:25:00,6 PM - 10 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.114,Moderate
+Mangaluru,Hosapete,Express,"BC Road, Belthangadi",18:30:00,6 PM - 10 PM,Bellary,Karnataka,2.79,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.237,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:30:00,6 PM - 10 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,18:00:00,22:00:00,1,1,2,1.408,Low
+Mangaluru,Bagalakote,Express,Kumta,18:30:00,6 PM - 10 PM,Bagalkot,Karnataka,2.15,Moderate,Semi Urban,No,18:00:00,22:00:00,3,0,2,1.8450000000000002,Medium
+Mangaluru,Subramanya,Limited,Uppinangadi,18:30:00,6 PM - 10 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.114,Moderate
+Mangaluru,Bengaluru,Express,Mysuru,18:30:00,6 PM - 10 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,4.888,Very High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:35:00,6 PM - 10 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,18:00:00,22:00:00,1,1,2,1.408,Low
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:40:00,6 PM - 10 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,18:00:00,22:00:00,1,1,2,1.408,Low
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:45:00,6 PM - 10 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,18:00:00,22:00:00,1,1,2,1.408,Low
+Mangaluru,Gadag,Express,Kumta,18:45:00,6 PM - 10 PM,Gadag,Karnataka,1.21,Very Low,Top Rural,No,18:00:00,22:00:00,0,0,2,0.963,Very Low
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:50:00,6 PM - 10 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,18:00:00,22:00:00,1,1,2,1.408,Low
+Mangaluru,Ganjihal,Express,Kumta,18:50:00,6 PM - 10 PM,Bagalkot,Karnataka,2.15,Moderate,Semi Urban,No,18:00:00,22:00:00,3,0,2,1.8450000000000002,Medium
+Mangaluru,Mudipu,Limited,Thokkottu,18:55:00,6 PM - 10 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.114,Moderate
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:55:00,6 PM - 10 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,18:00:00,22:00:00,1,1,2,1.408,Low
+Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",19:00:00,6 PM - 10 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.114,Moderate
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",19:00:00,6 PM - 10 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,18:00:00,22:00:00,1,1,2,1.408,Low
+Mangaluru,Vijayapura,Non Ac Sleeper,Kumta,19:00:00,6 PM - 10 PM,Bijapur,Karnataka,2.48,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.144,Moderate
+Mangaluru,Kamatagi,Express,Kumta,19:00:00,6 PM - 10 PM,Bagalkot,Karnataka,2.15,Moderate,Semi Urban,No,18:00:00,22:00:00,3,0,2,1.8450000000000002,Medium
+Mangaluru,Bengaluru,Express,Sakleshpura,19:00:00,6 PM - 10 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,4.888,Very High
+Mangaluru,Ballari,Non Ac Sleeper,Udupi,19:00:00,6 PM - 10 PM,Bellary,Karnataka,2.79,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.237,High
+Mangaluru,B.C.Road,Ordinary,Farangipete,19:00:00,6 PM - 10 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.114,Moderate
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",19:08:00,6 PM - 10 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,18:00:00,22:00:00,1,1,2,1.408,Low
+Mangaluru,Kabbaragi,Express,Kumta,19:15:00,6 PM - 10 PM,Koppal,Karnataka,1.58,Low,Mid Rural,No,18:00:00,22:00:00,1,0,2,1.274,Very Low
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",19:16:00,6 PM - 10 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,18:00:00,22:00:00,1,1,2,1.408,Low
+Mangaluru,Mudipu,Limited,Thokkottu,19:20:00,6 PM - 10 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.114,Moderate
+Mangaluru,Hungund,Express,Kumta,19:20:00,6 PM - 10 PM,Bagalkot,Karnataka,2.15,Moderate,Semi Urban,No,18:00:00,22:00:00,3,0,2,1.8450000000000002,Medium
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",19:24:00,6 PM - 10 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,18:00:00,22:00:00,1,1,2,1.408,Low
+Mangaluru,Bagalakote,Express,Kumta,19:30:00,6 PM - 10 PM,Bagalkot,Karnataka,2.15,Moderate,Semi Urban,No,18:00:00,22:00:00,3,0,2,1.8450000000000002,Medium
+Mangaluru,Bengaluru,Express,Sakleshpura,19:30:00,6 PM - 10 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,4.888,Very High
+Mangaluru,Sandur,Non Ac Sleeper,Hosapete,19:30:00,6 PM - 10 PM,Bellary,Karnataka,2.79,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.237,High
+Mangaluru,Mysuru,Express,Madikeri,19:30:00,6 PM - 10 PM,Mysore,Karnataka,3.42,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,2.626,High
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",19:32:00,6 PM - 10 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,18:00:00,22:00:00,1,1,2,1.408,Low
+Mangaluru,"Ankalimata, Talekat",Express,Kumta,19:35:00,6 PM - 10 PM,Raichur,Karnataka,2.2,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.06,Moderate
+Mangaluru,Bengaluru,Multi Axle,Sakleshpura,19:35:00,6 PM - 10 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,4.888,Very High
+Mangaluru,Adyar padavu,Limited,Thokkottu,19:40:00,6 PM - 10 PM,Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.114,Moderate
+Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",19:40:00,6 PM - 10 PM,Kasaragod,Kerala,1.36,Low,Mid Rural,Yes,18:00:00,22:00:00,1,1,2,1.408,Low
+Mangaluru,Muddebihal,Express,Kumta,19:45:00,6 PM - 10 PM,Bijapur,Karnataka,2.48,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.144,Moderate
+Mangaluru,Bengaluru,Non Ac Sleeper,Sakleshpura,19:45:00,6 PM - 10 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,4.888,Very High
+Mangaluru,Amingad,Express,Kumta,19:50:00,6 PM - 10 PM,Bagalkot,Karnataka,2.15,Moderate,Semi Urban,No,18:00:00,22:00:00,3,0,2,1.8450000000000002,Medium
+Mangaluru,Belagavi,Non Ac Sleeper,Kumta,20:00:00,6 PM - 10 PM,Belagavi,Karnataka,5.44,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,3.232,Very High
+Mangaluru,Bengaluru,Express,Sakleshpura,20:00:00,6 PM - 10 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,4.888,Very High
+Mangaluru,Davanagere,Non Ac Sleeper,Udupi,20:00:00,6 PM - 10 PM,Davanagere,Karnataka,2.22,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.0660000000000003,Moderate
+Mangaluru,Davanagere,Express,"BC Road, Belthangadi",20:05:00,6 PM - 10 PM,Davanagere,Karnataka,2.22,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.0660000000000003,Moderate
+Mangaluru,Bagalakote,Express,Kumta,20:05:00,6 PM - 10 PM,Bagalkot,Karnataka,2.15,Moderate,Semi Urban,No,18:00:00,22:00:00,3,0,2,1.8450000000000002,Medium
+Mangaluru,Bengaluru,Express,Sakleshpura,20:14:00,6 PM - 10 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,4.888,Very High
+Mangaluru,Kushtagi,Express,Kumta,20:15:00,6 PM - 10 PM,Koppal,Karnataka,1.58,Low,Mid Rural,No,18:00:00,22:00:00,1,0,2,1.274,Very Low
+Mangaluru,Challakere,Rajahamsa,Udupi,20:15:00,6 PM - 10 PM,Chitradurga,Karnataka,1.89,Medium,Semi Rural,No,18:00:00,22:00:00,2,0,2,1.567,Low
+Mangaluru,Bilagi,Express,Kumta,20:30:00,6 PM - 10 PM,Bagalkot,Karnataka,2.15,Moderate,Semi Urban,No,18:00:00,22:00:00,3,0,2,1.8450000000000002,Medium
+Mangaluru,Ranebennur,Express,Kundapura,20:30:00,6 PM - 10 PM,Haveri,Karnataka,1.82,Medium,Semi Rural,No,18:00:00,22:00:00,2,0,2,1.546,Low
+Mangaluru,Ramdurg,Non Ac Sleeper,Kumta,20:30:00,6 PM - 10 PM,Belagavi,Karnataka,5.44,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,3.232,Very High
+Mangaluru,Bengaluru,Non Ac Sleeper,Sakleshpura,20:30:00,6 PM - 10 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,4.888,Very High
+Mangaluru,Bengaluru,Express,Sakleshpura,20:40:00,6 PM - 10 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,4.888,Very High
+Mangaluru,Bengaluru,Multi Axle,Sakleshpura,20:43:00,6 PM - 10 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,4.888,Very High
+Mangaluru,Gajendragad,Express,Kumta,20:45:00,6 PM - 10 PM,Gadag,Karnataka,1.21,Very Low,Top Rural,No,18:00:00,22:00:00,0,0,2,0.963,Very Low
+Mangaluru,Tirupati,Multi Axle,Sakleshpura,20:51:00,6 PM - 10 PM,Tirupati,Andhra Pradesh,2.2,High,Mid Urban,Yes,18:00:00,22:00:00,4,1,2,2.26,High
+Mangaluru,Bengaluru,Non Ac Sleeper,Sakleshpura,20:55:00,6 PM - 10 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,4.888,Very High
+Mangaluru,Ernakulam,Multi Axle,Kasaragod,21:00:00,6 PM - 10 PM,Ernakulam,Kerala,3.41,Very High,Top Urban,Yes,18:00:00,22:00:00,5,1,2,2.823,High
+Mangaluru,Koppal,Express,Kumta,21:00:00,6 PM - 10 PM,Koppal,Karnataka,1.58,Low,Mid Rural,No,18:00:00,22:00:00,1,0,2,1.274,Very Low
+Mangaluru,Bengaluru,Express,Sakleshpura,21:00:00,6 PM - 10 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,4.888,Very High
+Mangaluru,Bengaluru,Rajahamsa,Sakleshpura,21:00:00,6 PM - 10 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,4.888,Very High
+Mangaluru,Davanagere,Express,Udupi,21:00:00,6 PM - 10 PM,Davanagere,Karnataka,2.22,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.0660000000000003,Moderate
+Mangaluru,Ooty,Rajahamsa,Madikeri,21:00:00,6 PM - 10 PM,The Nilgiris,Tamil Nadu,0.85,Very Low,Top Rural,Yes,18:00:00,22:00:00,0,1,2,1.055,Very Low
+Mangaluru,Badami,Express,Kumta,21:15:00,6 PM - 10 PM,Bagalkot,Karnataka,2.15,Moderate,Semi Urban,No,18:00:00,22:00:00,3,0,2,1.8450000000000002,Medium
+Mangaluru,Davanagere,Non Ac Sleeper,Udupi,21:15:00,6 PM - 10 PM,Davanagere,Karnataka,2.22,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.0660000000000003,Moderate
+Mangaluru,Bengaluru,Rajahamsa,Sakleshpura,21:25:00,6 PM - 10 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,4.888,Very High
+Mangaluru,Bengaluru,Multi Axle,Mysuru,21:28:00,6 PM - 10 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,4.888,Very High
+Mangaluru,Gajendragad,Express,Kumta,21:30:00,6 PM - 10 PM,Gadag,Karnataka,1.21,Very Low,Top Rural,No,18:00:00,22:00:00,0,0,2,0.963,Very Low
+Mangaluru,Ballari,Express,Udupi,21:30:00,6 PM - 10 PM,Bellary,Karnataka,2.79,High,Mid Urban,No,18:00:00,22:00:00,4,0,2,2.237,High
+Mangaluru,Mysuru,Rajahamsa,Madikeri,21:30:00,6 PM - 10 PM,Mysore,Karnataka,3.42,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,2.626,High
+Mangaluru,Bengaluru Airport,Multi Axle,Sakleshpura,21:35:00,6 PM - 10 PM,Bangalore Rural,Karnataka,1.12,Very Low,Top Rural,No,18:00:00,22:00:00,0,0,2,0.9359999999999999,Very Low
+Mangaluru,Bengaluru,Non Ac Sleeper,Sakleshpura,21:36:00,6 PM - 10 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,4.888,Very High
+Mangaluru,Bengaluru,Non Ac Sleeper,Mysuru,21:44:00,6 PM - 10 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,4.888,Very High
+Mangaluru,Bengaluru,Multi Axle,Sakleshpura,21:45:00,6 PM - 10 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,4.888,Very High
+Mangaluru,Bengaluru,Non Ac Sleeper,Sakleshpura,21:59:00,6 PM - 10 PM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,18:00:00,22:00:00,5,0,2,4.888,Very High
+Mangaluru,Bengaluru,Dream class,Sakleshpura,22:00:00,10 PM - 2 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,4.588,Very High
+Mangaluru,Bengaluru,Rajahamsa,Sakleshpura,22:00:00,10 PM - 2 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,4.588,Very High
+Mangaluru,Davanagere,Non Ac Sleeper,Udupi,22:00:00,10 PM - 2 AM,Davanagere,Karnataka,2.22,High,Mid Urban,No,22:00:00,02:00:00,4,0,1,1.7660000000000002,Medium
+Mangaluru,Mysuru,Express,Madikeri,22:00:00,10 PM - 2 AM,Mysore,Karnataka,3.42,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,2.3259999999999996,High
+Udupi,Mysuru,Express,Madikeri,22:00:00,10 PM - 2 AM,Mysore,Karnataka,3.42,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,2.3259999999999996,High
+Mangaluru,Bengaluru,Express,Sakleshpura,22:10:00,10 PM - 2 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,4.588,Very High
+Mangaluru,Bengaluru,Multi Axle,Sakleshpura,22:12:00,10 PM - 2 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,4.588,Very High
+Mangaluru,Bengaluru,Multi Axle,Sakleshpura,22:15:00,10 PM - 2 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,4.588,Very High
+Mangaluru,Bengaluru,Rajahamsa,Sakleshpura,22:20:00,10 PM - 2 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,4.588,Very High
+Mangaluru,Bengaluru,Non Ac Sleeper,Sakleshpura,22:22:00,10 PM - 2 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,4.588,Very High
+Mangaluru,Yellapur,Express,Kumta,22:30:00,10 PM - 2 AM,Uttara Kannada,Karnataka,1.64,Medium,Semi Rural,No,22:00:00,02:00:00,2,0,1,1.192,Very Low
+Mangaluru,Bengaluru,Non Ac Sleeper,Sakleshpura,22:30:00,10 PM - 2 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,4.588,Very High
+Mangaluru,Bengaluru,Multi Axle,Sakleshpura,22:35:00,10 PM - 2 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,4.588,Very High
+Mangaluru,Bengaluru,Dream class,Sakleshpura,22:40:00,10 PM - 2 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,4.588,Very High
+Mangaluru,Bengaluru,Dream class,Sakleshpura,22:40:00,10 PM - 2 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,4.588,Very High
+Mangaluru,Bengaluru,Multi Axle,Sakleshpura,22:45:00,10 PM - 2 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,4.588,Very High
+Mangaluru,Mysuru,Rajahamsa,Madikeri,22:45:00,10 PM - 2 AM,Mysore,Karnataka,3.42,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,2.3259999999999996,High
+Manipal,Mysuru,Non Ac Sleeper,Madikeri,22:45:00,10 PM - 2 AM,Mysore,Karnataka,3.42,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,2.3259999999999996,High
+Mangaluru,Laxmeshwar,Express,Kumta,23:00:00,10 PM - 2 AM,Gadag,Karnataka,1.21,Very Low,Top Rural,No,22:00:00,02:00:00,0,0,1,0.663,Very Low
+Mangaluru,Bengaluru,Non Ac Sleeper,Sakleshpura,23:00:00,10 PM - 2 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,4.588,Very High
+Mangaluru,Bengaluru,Rajahamsa,Sakleshpura,23:00:00,10 PM - 2 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,4.588,Very High
+Mangaluru,Mandya,Non Ac Sleeper,Madikeri,23:00:00,10 PM - 2 AM,Mandya,Karnataka,2.06,Moderate,Semi Urban,No,22:00:00,02:00:00,3,0,1,1.518,Low
+Mangaluru,Bengaluru,Multi Axle,Mysuru,23:00:00,10 PM - 2 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,4.588,Very High
+Mangaluru,Bengaluru,Non Ac Sleeper,Sakleshpura,23:10:00,10 PM - 2 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,4.588,Very High
+Mangaluru,Bengaluru,Multi Axle,Sakleshpura,23:15:00,10 PM - 2 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,4.588,Very High
+Mangaluru,Bengaluru,Dream class,Sakleshpura,23:15:00,10 PM - 2 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,4.588,Very High
+Mangaluru,Bengaluru,Dream class,Sakleshpura,23:20:00,10 PM - 2 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,4.588,Very High
+Mangaluru,Bengaluru,Multi Axle,Sakleshpura,23:30:00,10 PM - 2 AM,Bangalore ,Karnataka,10.96,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,4.588,Very High
+Udupi,Mysuru,Multi Axle,Madikeri,23:45:00,10 PM - 2 AM,Mysore,Karnataka,3.42,Very High,Top Urban,No,22:00:00,02:00:00,5,0,1,2.3259999999999996,High

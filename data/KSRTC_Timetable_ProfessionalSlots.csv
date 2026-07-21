@@ -1,0 +1,543 @@
+"Sl.No",From,Destination,Service Class,Via Place,Time,Slot Label
+1,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",05:20:00,2 AM - 6 AM
+2,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",05:50:00,2 AM - 6 AM
+3,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",06:00:00,6 AM - 10 AM
+4,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",06:20:00,6 AM - 10 AM
+5,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",06:45:00,6 AM - 10 AM
+6,Bengaluru,Kundapura,Multi Axle,Udupi,05:00:00,2 AM - 6 AM
+7,Mangaluru,Mysuru,Express,Madikeri,05:00:00,2 AM - 6 AM
+8,Mangaluru,Yenepoya,Limited,Thokkottu,05:00:00,2 AM - 6 AM
+9,Mangaluru,Mudipu,Limited,Thokkottu,05:00:00,2 AM - 6 AM
+10,Mangaluru,Yenepoya,Rajahamsa,Thokkottu,05:00:00,2 AM - 6 AM
+11,Mysuru,Manipal,Multi Axle,Udupi,05:05:00,2 AM - 6 AM
+12,Mysuru,Udupi,Rajahamsa,Udupi,05:10:00,2 AM - 6 AM
+13,Bengaluru,Kundapura,Non Ac Sleeper,Udupi,05:10:00,2 AM - 6 AM
+14,Mysuru,Udupi,Rajahamsa,Udupi,05:15:00,2 AM - 6 AM
+15,Mangaluru,Bagalakote,Express,Kumta,05:15:00,2 AM - 6 AM
+16,Bengaluru,Manipal,Non Ac Sleeper,Udupi,05:20:00,2 AM - 6 AM
+17,Mysuru,Udupi,Non Ac Sleeper,Udupi,05:25:00,2 AM - 6 AM
+18,Mangaluru,Davanagere,Express,"BC Road, Belthangadi",05:30:00,2 AM - 6 AM
+19,Mangaluru,Subramanya,Limited,Uppinangadi,05:30:00,2 AM - 6 AM
+20,Mangaluru,Mysuru,Express,Madikeri,05:30:00,2 AM - 6 AM
+21,Mangaluru,Yenepoya,Express,Thokkottu,05:30:00,2 AM - 6 AM
+22,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",05:40:00,2 AM - 6 AM
+23,Mangaluru,Puttur ,Express,B.C.Road,05:40:00,2 AM - 6 AM
+24,Bengaluru,Kundapura,Multi Axle,Udupi,05:45:00,2 AM - 6 AM
+25,Bengaluru,Udupi,Non Ac Sleeper,Udupi,05:45:00,2 AM - 6 AM
+26,Bengaluru,Kundapura,Multi Axle,Udupi,05:45:00,2 AM - 6 AM
+27,Bengaluru,Kundapura,Dream class,Udupi,05:45:00,2 AM - 6 AM
+28,Mangaluru,Bengaluru,Express,Sakleshpura,05:45:00,2 AM - 6 AM
+29,Mangaluru,Puttur,Express,B.C.Road,05:50:00,2 AM - 6 AM
+30,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",05:55:00,2 AM - 6 AM
+31,Mangaluru,Mudipu,Limited,Thokkottu,06:00:00,6 AM - 10 AM
+32,Mangaluru,Kanhangad,Express,"Thokkottu, Kumble",06:00:00,6 AM - 10 AM
+33,Bengaluru,Kundapura,Rajahamsa,Udupi,06:00:00,6 AM - 10 AM
+34,Bengaluru,Kundapura,Dream class,Udupi,06:00:00,6 AM - 10 AM
+35,Bengaluru,Manipal,Multi Axle,Udupi,06:00:00,6 AM - 10 AM
+36,Mangaluru,Bengaluru,Volvo,Sakleshpura,06:00:00,6 AM - 10 AM
+37,Mangaluru,Subramanya,Limited,Uppinangadi,06:00:00,6 AM - 10 AM
+38,Mysuru,Bengaluru,Express,Madikeri,06:00:00,6 AM - 10 AM
+39,Mangaluru,Yenepoya,Limited,Thokkottu,06:00:00,6 AM - 10 AM
+40,Mangaluru,Yenepoya,Limited,Thokkottu,06:00:00,6 AM - 10 AM
+41,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:04:00,6 AM - 10 AM
+42,Bengaluru,Kundapura,Ambari utsav,Udupi,06:05:00,6 AM - 10 AM
+43,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:08:00,6 AM - 10 AM
+44,Mangaluru,Mudipu,Limited,Thokkottu,06:10:00,6 AM - 10 AM
+45,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:12:00,6 AM - 10 AM
+46,Mangaluru,Yenepoya,Non Ac Sleeper,Thokkottu,06:15:00,6 AM - 10 AM
+47,Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",06:15:00,6 AM - 10 AM
+48,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:16:00,6 AM - 10 AM
+49,Mangaluru,Parapu,Limited,Thokkottu,06:20:00,6 AM - 10 AM
+50,Mangaluru,Kateelu,Limited,Surathkal,06:20:00,6 AM - 10 AM
+51,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:20:00,6 AM - 10 AM
+52,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:24:00,6 AM - 10 AM
+53,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:28:00,6 AM - 10 AM
+54,Mangaluru,Chikkamagaluru,Express,"BC Road, Belthangadi",06:30:00,6 AM - 10 AM
+55,Mangaluru,Mudipu,Limited,Thokkottu,06:30:00,6 AM - 10 AM
+56,Mangaluru,Gramachavadi,Limited,Thokkottu,06:30:00,6 AM - 10 AM
+57,Mangaluru,Laxmeshwar,Express,Kumta,06:30:00,6 AM - 10 AM
+58,Mangaluru,Hindupura,Express,Sakleshpura,06:30:00,6 AM - 10 AM
+59,Mangaluru,Subramanya,Limited,Uppinangadi,06:30:00,6 AM - 10 AM
+60,Mysuru,Bengaluru,Express,Madikeri,06:30:00,6 AM - 10 AM
+61,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:32:00,6 AM - 10 AM
+62,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:36:00,6 AM - 10 AM
+63,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:40:00,6 AM - 10 AM
+64,Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",06:40:00,6 AM - 10 AM
+65,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:44:00,6 AM - 10 AM
+66,Mangaluru,Mudipu,Limited,Thokkottu,06:45:00,6 AM - 10 AM
+67,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:48:00,6 AM - 10 AM
+68,Mangaluru,Phajeer,Limited,Farangipete,06:50:00,6 AM - 10 AM
+69,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:52:00,6 AM - 10 AM
+70,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",06:56:00,6 AM - 10 AM
+71,Mangaluru,Valiyullahi Dargha Shareef Jardgaudde Ammembala,Limited,Thokkottu,07:00:00,6 AM - 10 AM
+72,Mangaluru,Polali,Limited,Nanthur,07:00:00,6 AM - 10 AM
+73,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:00:00,6 AM - 10 AM
+74,Mangaluru,Bengaluru,Multi Axle,Sakleshpura,07:00:00,6 AM - 10 AM
+75,Mangaluru,Bengaluru,Express,Sakleshpura,07:00:00,6 AM - 10 AM
+76,Mangaluru,Subramanya,Limited,Uppinangadi,07:00:00,6 AM - 10 AM
+77,Mangaluru,Mysuru,Express,Madikeri,07:00:00,6 AM - 10 AM
+78,Mangaluru,Mermajalu,Ordinary,Farangipete,07:00:00,6 AM - 10 AM
+79,Mangaluru,Farangipete,Ordinary,Farangipete,07:00:00,6 AM - 10 AM
+80,Mangaluru,Yenepoya,Non Ac Sleeper,Thokkottu,07:00:00,6 AM - 10 AM
+81,Mangaluru,Yenepoya,Express,Thokkottu,07:00:00,6 AM - 10 AM
+82,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:04:00,6 AM - 10 AM
+83,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:08:00,6 AM - 10 AM
+84,Mangaluru,Rehamathnagar,Limited,Thokkottu,07:10:00,6 AM - 10 AM
+85,Mangaluru,Kadegoli,Ordinary,Farangipete,07:10:00,6 AM - 10 AM
+86,Mangaluru,Yenepoya,Express,Thokkottu,07:10:00,6 AM - 10 AM
+87,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:12:00,6 AM - 10 AM
+88,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",07:15:00,6 AM - 10 AM
+89,Mangaluru,Davanagere,Express,"BC Road, Belthangadi",07:15:00,6 AM - 10 AM
+90,Mangaluru,Mudipu,Limited,Thokkottu,07:15:00,6 AM - 10 AM
+91,Mangaluru,Haveri,Express,Kumta,07:15:00,6 AM - 10 AM
+92,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:16:00,6 AM - 10 AM
+93,Mangaluru,Adyar Padavu,Limited,Padil,07:20:00,6 AM - 10 AM
+94,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:20:00,6 AM - 10 AM
+95,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:24:00,6 AM - 10 AM
+96,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",07:25:00,6 AM - 10 AM
+97,Mangaluru,Bokkapatna,Ordinary,Thokkottu,07:25:00,6 AM - 10 AM
+98,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:27:00,6 AM - 10 AM
+99,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:30:00,6 AM - 10 AM
+100,Mangaluru,Savadatti Yallamma,Express,Kumta,07:30:00,6 AM - 10 AM
+101,Mangaluru,Subramanya,Limited,Uppinangadi,07:30:00,6 AM - 10 AM
+102,Kundapura,Mysuru,Express,Madikeri,07:30:00,6 AM - 10 AM
+103,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:33:00,6 AM - 10 AM
+104,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:36:00,6 AM - 10 AM
+105,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:39:00,6 AM - 10 AM
+106,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:42:00,6 AM - 10 AM
+107,Mangaluru,Davanagere,Express,"BC Road, Belthangadi",07:45:00,6 AM - 10 AM
+108,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:45:00,6 AM - 10 AM
+109,Mangaluru,Bagalakote,Express,Kumta,07:45:00,6 AM - 10 AM
+110,Mangaluru,Bengaluru,Rajahamsa,Sakleshpura,07:45:00,6 AM - 10 AM
+111,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:48:00,6 AM - 10 AM
+112,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:51:00,6 AM - 10 AM
+113,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",07:54:00,6 AM - 10 AM
+114,Mangaluru,Mudipu,Limited,Thokkottu,08:00:00,6 AM - 10 AM
+115,Mangaluru,Hubballi,Express,Kumta,08:00:00,6 AM - 10 AM
+116,Mangaluru,Bengaluru,Multi Axle,Sakleshpura,08:00:00,6 AM - 10 AM
+117,Mangaluru,Subramanya,Limited,Uppinangadi,08:00:00,6 AM - 10 AM
+118,Udupi,Mysuru,Express,Madikeri,08:00:00,6 AM - 10 AM
+119,Kundapura,Bengaluru,Express,Sakleshpura,08:15:00,6 AM - 10 AM
+120,Mangaluru,Mysuru,Express,Madikeri,08:15:00,6 AM - 10 AM
+121,Mangaluru,Davanagere,Express,"BC Road, Belthangadi",08:30:00,6 AM - 10 AM
+122,Mangaluru,Mudipu,Limited,Thokkottu,08:30:00,6 AM - 10 AM
+123,Puttur,Panaji,Express,"Kumta, Karwar",08:30:00,6 AM - 10 AM
+124,Mangaluru,Subramanya,Limited,Uppinangadi,08:30:00,6 AM - 10 AM
+125,Mangaluru,Mysuru,Express,Madikeri,08:30:00,6 AM - 10 AM
+126,Mangaluru,Bengaluru,Multi Axle,Mysuru,08:30:00,6 AM - 10 AM
+127,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",08:45:00,6 AM - 10 AM
+128,Mangaluru,Hubballi,Express,Kumta,08:45:00,6 AM - 10 AM
+129,Mangaluru,Bengaluru,Express,Sakleshpura,09:00:00,6 AM - 10 AM
+130,Mangaluru,Chikkamagaluru,Express,"BC Road, Belthangadi",09:00:00,6 AM - 10 AM
+131,Mangaluru,Mudipu,Limited,Thokkottu,09:00:00,6 AM - 10 AM
+132,Mangaluru,Belagavi,Express,Karwar,09:00:00,6 AM - 10 AM
+133,Mangaluru,Bengaluru,Multi Axle,Sakleshpura,09:00:00,6 AM - 10 AM
+134,Mangaluru,Subramanya,Limited,Uppinangadi,09:00:00,6 AM - 10 AM
+135,Mangaluru,Bengaluru,Express,Mysuru,09:00:00,6 AM - 10 AM
+136,Mangaluru,Vitla,Ordinary,Farangipete,09:00:00,6 AM - 10 AM
+137,Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",09:10:00,6 AM - 10 AM
+138,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",09:15:00,6 AM - 10 AM
+139,Mangaluru,Bengaluru,Express,Sakleshpura,09:15:00,6 AM - 10 AM
+140,Mangaluru,Mudipu,Limited,Thokkottu,09:20:00,6 AM - 10 AM
+141,Mangaluru,Davanagere,Express,"BC Road, Belthangadi",09:30:00,6 AM - 10 AM
+142,Mangaluru,Rehamathnagar,Limited,Thokkottu,09:30:00,6 AM - 10 AM
+143,Mangaluru,Adyar Padavu,Limited,Padil,09:30:00,6 AM - 10 AM
+144,Puttur,Hubballi,Express,Kumta,09:30:00,6 AM - 10 AM
+145,Mangaluru,Bengaluru,Rajahamsa,Sakleshpura,09:30:00,6 AM - 10 AM
+146,Mangaluru,Subramanya,Limited,Uppinangadi,09:30:00,6 AM - 10 AM
+147,Udupi,Chamarajanagar,Express,Madikeri,09:30:00,6 AM - 10 AM
+148,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",09:35:00,6 AM - 10 AM
+149,Mangaluru,Parapu,Limited,Thokkottu,09:40:00,6 AM - 10 AM
+150,Mangaluru,Hubballi,Express,Kumta,09:45:00,6 AM - 10 AM
+151,Mangaluru,Bengaluru,Express,Sakleshpura,09:45:00,6 AM - 10 AM
+152,Mangaluru,Bengaluru,Express,Mysuru,09:45:00,6 AM - 10 AM
+153,Mangaluru,Kateelu,Limited,Surathkal,09:47:00,6 AM - 10 AM
+154,Mangaluru,Mudipu,Limited,Thokkottu,09:50:00,6 AM - 10 AM
+155,Mangaluru,Vitla,Ordinary,Farangipete,09:50:00,6 AM - 10 AM
+156,Mangaluru,Mudipu,Limited,Thokkottu,09:55:00,6 AM - 10 AM
+157,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",09:57:00,6 AM - 10 AM
+158,Mangaluru,Shivamogga,Express,"BC Road, Belthangadi",10:00:00,10 AM - 2 PM
+159,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:00:00,10 AM - 2 PM
+160,Mangaluru,Savadatti Yallamma,Express,Kumta,10:00:00,10 AM - 2 PM
+161,Mangaluru,Channarayapatna,Express,Sakleshpura,10:00:00,10 AM - 2 PM
+162,Mangaluru,Bengaluru,Multi Axle,Sakleshpura,10:00:00,10 AM - 2 PM
+163,Mangaluru,Subramanya,Limited,Uppinangadi,10:00:00,10 AM - 2 PM
+164,Mangaluru,Bengaluru,Express,Mysuru,10:00:00,10 AM - 2 PM
+165,Mangaluru,Bengaluru,Volvo,Mysuru,10:00:00,10 AM - 2 PM
+166,Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",10:00:00,10 AM - 2 PM
+167,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:03:00,10 AM - 2 PM
+168,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",10:05:00,10 AM - 2 PM
+169,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:06:00,10 AM - 2 PM
+170,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:09:00,10 AM - 2 PM
+171,Mangaluru,Mudipu,Limited,Thokkottu,10:10:00,10 AM - 2 PM
+172,Mangaluru,Uppinangady,Limited,Uppinangadi,10:10:00,10 AM - 2 PM
+173,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:12:00,10 AM - 2 PM
+174,Mangaluru,Kadur,Express,"BC Road, Belthangadi",10:15:00,10 AM - 2 PM
+175,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:15:00,10 AM - 2 PM
+176,Mangaluru,Bengaluru,Express,Sakleshpura,10:15:00,10 AM - 2 PM
+177,Mangaluru,Bengaluru,Express,Mysuru,10:15:00,10 AM - 2 PM
+178,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:18:00,10 AM - 2 PM
+179,Mangaluru,Mudipu,Limited,Thokkottu,10:20:00,10 AM - 2 PM
+180,Mangaluru,Shishila,Ordinary,Uppinangadi,10:20:00,10 AM - 2 PM
+181,Mangaluru,Puttur,Express,B.C.Road,10:20:00,10 AM - 2 PM
+182,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:21:00,10 AM - 2 PM
+183,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:24:00,10 AM - 2 PM
+184,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",10:25:00,10 AM - 2 PM
+185,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:27:00,10 AM - 2 PM
+186,Mangaluru,Kadur,Express,"BC Road, Belthangadi",10:30:00,10 AM - 2 PM
+187,Mangaluru,Polali,Ordinary,Thokkottu,10:30:00,10 AM - 2 PM
+188,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:30:00,10 AM - 2 PM
+189,Mangaluru,Hubballi,Express,Kumta,10:30:00,10 AM - 2 PM
+190,Mangaluru,Bengaluru,Express,Sakleshpura,10:30:00,10 AM - 2 PM
+191,Mangaluru,Subramanya,Limited,Uppinangadi,10:30:00,10 AM - 2 PM
+192,Udupi,Mysuru,Express,Madikeri,10:30:00,10 AM - 2 PM
+193,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:36:00,10 AM - 2 PM
+194,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:39:00,10 AM - 2 PM
+195,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:42:00,10 AM - 2 PM
+196,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:45:00,10 AM - 2 PM
+197,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:45:00,10 AM - 2 PM
+198,Mangaluru,Belagavi,Express,Kumta,10:45:00,10 AM - 2 PM
+199,Mangaluru,Subramanya,Limited,Uppinangadi,10:45:00,10 AM - 2 PM
+200,Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",10:45:00,10 AM - 2 PM
+201,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:48:00,10 AM - 2 PM
+202,Mangaluru,Mudipu,Limited,Thokkottu,10:50:00,10 AM - 2 PM
+203,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:51:00,10 AM - 2 PM
+204,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:54:00,10 AM - 2 PM
+205,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",10:57:00,10 AM - 2 PM
+206,Mangaluru,Shivamogga,Express,"BC Road, Belthangadi",11:00:00,10 AM - 2 PM
+207,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:00:00,10 AM - 2 PM
+208,Mangaluru,Gokarna,Express,Kumta,11:00:00,10 AM - 2 PM
+209,Mangaluru,Bengaluru,Multi Axle,Sakleshpura,11:00:00,10 AM - 2 PM
+210,Mangaluru,Bengaluru,Express,Sakleshpura,11:00:00,10 AM - 2 PM
+211,Mangaluru,Subramanya,Limited,Uppinangadi,11:00:00,10 AM - 2 PM
+212,Mangaluru,Virajpet,Express,Madikeri,11:00:00,10 AM - 2 PM
+213,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:03:00,10 AM - 2 PM
+214,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:06:00,10 AM - 2 PM
+215,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:09:00,10 AM - 2 PM
+216,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:12:00,10 AM - 2 PM
+217,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:15:00,10 AM - 2 PM
+218,Subramanya,Karwar,Express,Kumta,11:15:00,10 AM - 2 PM
+219,Kundapura,Mysuru,Express,Madikeri,11:15:00,10 AM - 2 PM
+220,Mangaluru,B.C.Road,Express,Farangipete,11:15:00,10 AM - 2 PM
+221,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:18:00,10 AM - 2 PM
+222,Mangaluru,Mudipu,Limited,Thokkottu,11:20:00,10 AM - 2 PM
+223,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:21:00,10 AM - 2 PM
+224,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:24:00,10 AM - 2 PM
+225,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",11:25:00,10 AM - 2 PM
+226,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:27:00,10 AM - 2 PM
+227,Mangaluru,Kadur,Express,"BC Road, Belthangadi",11:30:00,10 AM - 2 PM
+228,Mangaluru,Mudipu,Limited,Thokkottu,11:30:00,10 AM - 2 PM
+229,Mangaluru,Adyar Padavu,Limited,Padil,11:30:00,10 AM - 2 PM
+230,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:30:00,10 AM - 2 PM
+231,Dharmasthala,Karwar,Express,Kumta,11:30:00,10 AM - 2 PM
+232,Mangaluru,Subrahmanya,Limited,Uppinangadi,11:30:00,10 AM - 2 PM
+233,Mangaluru,Madikeri,Express,Puttur,11:30:00,10 AM - 2 PM
+234,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:34:00,10 AM - 2 PM
+235,Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",11:35:00,10 AM - 2 PM
+236,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:38:00,10 AM - 2 PM
+237,Mangaluru,Bengaluru,Express,Sakleshpura,11:40:00,10 AM - 2 PM
+238,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:42:00,10 AM - 2 PM
+239,Mangaluru,Bengaluru,Volvo,Mysuru,11:45:00,10 AM - 2 PM
+240,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:46:00,10 AM - 2 PM
+241,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",11:50:00,10 AM - 2 PM
+242,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:50:00,10 AM - 2 PM
+243,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",11:55:00,10 AM - 2 PM
+244,Mangaluru,Birur,Express,"BC Road, Belthangadi",12:00:00,10 AM - 2 PM
+245,Mangaluru,Rehamathnagar,Limited,Thokkottu,12:00:00,10 AM - 2 PM
+246,Mangaluru,Tirupati,Multi Axle,Sakleshpura,12:00:00,10 AM - 2 PM
+247,Mangaluru,Holenarasipur ,Express,Sakleshpura,12:00:00,10 AM - 2 PM
+248,Kundapura,Mysuru,Express,Madikeri,12:00:00,10 AM - 2 PM
+249,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",12:10:00,10 AM - 2 PM
+250,Mangaluru,Mudipu,Limited,Thokkottu,12:15:00,10 AM - 2 PM
+251,Mangaluru,Belagavi,Express,Kumta,12:15:00,10 AM - 2 PM
+252,Mangaluru,Hassan,Express,"BC Road, Belthangadi",12:30:00,10 AM - 2 PM
+253,Mangaluru,Mudipu,Limited,Thokkottu,12:30:00,10 AM - 2 PM
+254,Mangaluru,Bengaluru,Rajahamsa,Sakleshpura,12:30:00,10 AM - 2 PM
+255,Mangaluru,Madikeri,Express,Puttur,12:30:00,10 AM - 2 PM
+256,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",12:35:00,10 AM - 2 PM
+257,Mangaluru,Kadur,Express,"BC Road, Belthangadi",12:45:00,10 AM - 2 PM
+258,Mangaluru,Kateelu,Ordinary,Thokkottu,12:45:00,10 AM - 2 PM
+259,Mangaluru,Mumbai,Multi Axle,Kumta,12:45:00,10 AM - 2 PM
+260,Mangaluru,Arsikere,Express,Sakleshpura,12:45:00,10 AM - 2 PM
+261,Mangaluru,Kutta,Express,Puttur,12:45:00,10 AM - 2 PM
+262,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",12:50:00,10 AM - 2 PM
+263,Mangaluru,Mudipu,Limited,Thokkottu,12:50:00,10 AM - 2 PM
+264,Mangaluru,Chikkamagaluru,Express,"BC Road, Belthangadi",13:00:00,10 AM - 2 PM
+265,Mangaluru,Ghatterga,Express,Kumta,13:00:00,10 AM - 2 PM
+266,Mangaluru,Bengaluru,Express,Sakleshpura,13:00:00,10 AM - 2 PM
+267,Mangaluru,Bengaluru,Multi Axle,Sakleshpura,13:00:00,10 AM - 2 PM
+268,Mangaluru,Subramanya,Limited,Uppinangadi,13:00:00,10 AM - 2 PM
+269,Mangaluru,Uppinangady,Limited,Uppinangadi,13:15:00,10 AM - 2 PM
+270,Mangaluru,Mysuru,Express,Madikeri,13:15:00,10 AM - 2 PM
+271,Mangaluru,Parapu,Limited,Thokkottu,13:20:00,10 AM - 2 PM
+272,Mangaluru,Somwarpet,Express,Sakleshpura,13:20:00,10 AM - 2 PM
+273,Hubballi,Dharmasthala,Express,"BC Road, Belthangadi",13:30:00,10 AM - 2 PM
+274,Mangaluru,Kadur,Express,"BC Road, Belthangadi",13:30:00,10 AM - 2 PM
+275,Mangaluru,Mudipu,Limited,Thokkottu,13:30:00,10 AM - 2 PM
+276,Mysuru,Gokarna,Express,Kumta,13:30:00,10 AM - 2 PM
+277,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",13:45:00,10 AM - 2 PM
+278,Mangaluru,Hassan,Express,"BC Road, Belthangadi",13:45:00,10 AM - 2 PM
+279,Mangaluru,Bengaluru,Express,Sakleshpura,13:45:00,10 AM - 2 PM
+280,Mangaluru,Subramanya,Limited,Uppinangadi,13:45:00,10 AM - 2 PM
+281,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",13:57:00,10 AM - 2 PM
+282,Mangaluru,Kadur,Express,"BC Road, Belthangadi",14:00:00,2 PM - 6 PM
+283,Mangaluru,Mudipu,Limited,Thokkottu,14:00:00,2 PM - 6 PM
+284,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:00:00,2 PM - 6 PM
+285,Mangaluru,Belagavi,Express,Kumta,14:00:00,2 PM - 6 PM
+286,Mangaluru,Tirupati,Multi Axle,Sakleshpura,14:00:00,2 PM - 6 PM
+287,Mangaluru,Holenarasipur ,Express,Sakleshpura,14:00:00,2 PM - 6 PM
+288,Kundapura,Mysuru,Rajahamsa,Madikeri,14:00:00,2 PM - 6 PM
+289,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:03:00,2 PM - 6 PM
+290,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:06:00,2 PM - 6 PM
+291,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:09:00,2 PM - 6 PM
+292,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:12:00,2 PM - 6 PM
+293,Karwar,Dharmasthala,Express,"BC Road, Belthangadi",14:15:00,2 PM - 6 PM
+294,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:15:00,2 PM - 6 PM
+295,Mangaluru,Gokarna,Volvo,Kumta,14:15:00,2 PM - 6 PM
+296,Mysuru,Kundapura,Express,Udupi,14:15:00,2 PM - 6 PM
+297,Mangaluru,Madikeri,Express,Puttur,14:15:00,2 PM - 6 PM
+298,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:18:00,2 PM - 6 PM
+299,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:21:00,2 PM - 6 PM
+300,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:24:00,2 PM - 6 PM
+301,Mangaluru,Rehamathnagar,Limited,Thokkottu,14:25:00,2 PM - 6 PM
+302,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:27:00,2 PM - 6 PM
+303,Mangaluru,Hosadurga,Express,"BC Road, Belthangadi",14:30:00,2 PM - 6 PM
+304,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:30:00,2 PM - 6 PM
+305,Mangaluru,Kalaburagi,Express,Kumta,14:30:00,2 PM - 6 PM
+306,Mangaluru,Bengaluru,Express,Sakleshpura,14:30:00,2 PM - 6 PM
+307,Mangaluru,Subramanya,Limited,Uppinangadi,14:30:00,2 PM - 6 PM
+308,Mangaluru,Madikeri,Express,Puttur,14:30:00,2 PM - 6 PM
+309,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:33:00,2 PM - 6 PM
+310,Mangaluru,Mudipu,Limited,Thokkottu,14:35:00,2 PM - 6 PM
+311,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:36:00,2 PM - 6 PM
+312,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:39:00,2 PM - 6 PM
+313,Mangaluru,Kumta,Express,Kumta,14:40:00,2 PM - 6 PM
+314,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:42:00,2 PM - 6 PM
+315,Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",14:45:00,2 PM - 6 PM
+316,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:45:00,2 PM - 6 PM
+317,Mangaluru,Hassan,Express,Sakleshpura,14:45:00,2 PM - 6 PM
+318,Mangaluru,Shishila,Ordinary,Uppinangadi,14:45:00,2 PM - 6 PM
+319,Mangaluru,Puttur,Express,B.C.Road,14:45:00,2 PM - 6 PM
+320,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:48:00,2 PM - 6 PM
+321,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:51:00,2 PM - 6 PM
+322,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:54:00,2 PM - 6 PM
+323,Mangaluru,Valiyullahi Dargha Shareef Jardgaudde Ammembala,Limited,Thokkottu,14:55:00,2 PM - 6 PM
+324,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",14:57:00,2 PM - 6 PM
+325,Mangaluru,Kayarthadka,Limited,"BC Road, Belthangadi",15:00:00,2 PM - 6 PM
+326,Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",15:00:00,2 PM - 6 PM
+327,Mangaluru,Kadur,Express,"BC Road, Belthangadi",15:00:00,2 PM - 6 PM
+328,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:00:00,2 PM - 6 PM
+329,Mangaluru,Hyderabad,Dream class,Kumta,15:00:00,2 PM - 6 PM
+330,Bengaluru,Kundapura,Express,Udupi,15:00:00,2 PM - 6 PM
+331,Mangaluru,Subramanya,Limited,Uppinangadi,15:00:00,2 PM - 6 PM
+332,Mangaluru,Madurai,Express,Mysuru,15:00:00,2 PM - 6 PM
+333,Mangaluru,B.C.Road,Ordinary,Farangipete,15:00:00,2 PM - 6 PM
+334,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:03:00,2 PM - 6 PM
+335,Mangaluru,Bengaluru,Multi Axle,Sakleshpura,15:03:00,2 PM - 6 PM
+336,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:06:00,2 PM - 6 PM
+337,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:09:00,2 PM - 6 PM
+338,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:12:00,2 PM - 6 PM
+339,Mangaluru,Mudipu,Limited,Thokkottu,15:15:00,2 PM - 6 PM
+340,Mangaluru,Adyar padavu,Limited,Padil,15:15:00,2 PM - 6 PM
+341,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:15:00,2 PM - 6 PM
+342,Mangaluru,Sindagi,Express,Kumta,15:15:00,2 PM - 6 PM
+343,Mangaluru,Sirsi,Volvo,Kumta,15:15:00,2 PM - 6 PM
+344,Mangaluru,Bengaluru,Express,Sakleshpura,15:15:00,2 PM - 6 PM
+345,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:18:00,2 PM - 6 PM
+346,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:21:00,2 PM - 6 PM
+347,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:24:00,2 PM - 6 PM
+348,Mangaluru,Somwarpet,Express,Madikeri,15:25:00,2 PM - 6 PM
+349,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:27:00,2 PM - 6 PM
+350,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",15:30:00,2 PM - 6 PM
+351,Mangaluru,Chikkamagaluru,Express,"BC Road, Belthangadi",15:30:00,2 PM - 6 PM
+352,Mangaluru,Gramachavadi,Limited,Thokkottu,15:30:00,2 PM - 6 PM
+353,Mangaluru,Talikoti,Express,Kumta,15:30:00,2 PM - 6 PM
+354,Mysuru,Kundapura,Express,Udupi,15:30:00,2 PM - 6 PM
+355,Mangaluru,Subramanya,Limited,Uppinangadi,15:30:00,2 PM - 6 PM
+356,Mangaluru,Mantralayam,Non Ac Sleeper,Udupi,15:30:00,2 PM - 6 PM
+357,Mangaluru,Coimbatore,Volvo,Mysuru,15:30:00,2 PM - 6 PM
+358,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:31:00,2 PM - 6 PM
+359,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:35:00,2 PM - 6 PM
+360,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:39:00,2 PM - 6 PM
+361,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:43:00,2 PM - 6 PM
+362,Mysuru,Kundapura,Rajahamsa,Udupi,15:45:00,2 PM - 6 PM
+363,Mysuru,Kundapura,Rajahamsa,Udupi,15:45:00,2 PM - 6 PM
+364,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:47:00,2 PM - 6 PM
+365,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:51:00,2 PM - 6 PM
+366,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",15:55:00,2 PM - 6 PM
+367,Mangaluru,Kadur,Express,"BC Road, Belthangadi",16:00:00,2 PM - 6 PM
+368,Mangaluru,Hanmanhal,Express,Kumta,16:00:00,2 PM - 6 PM
+369,Mangaluru,Pune,Ambari utsav,Kumta,16:00:00,2 PM - 6 PM
+370,Mysore,Udupi,Express,Mangaluru,16:00:00,2 PM - 6 PM
+371,Mangaluru,Hassan,Express,Sakleshpura,16:00:00,2 PM - 6 PM
+372,Mangaluru,Bengaluru,Multi Axle,Sakleshpura,16:00:00,2 PM - 6 PM
+373,Gokarna,Subramanya,Express,Uppinangadi,16:00:00,2 PM - 6 PM
+374,Mangaluru,Raichur,Rajahamsa,Udupi,16:00:00,2 PM - 6 PM
+375,Mangaluru,Mysuru,Express,Madikeri,16:00:00,2 PM - 6 PM
+376,Mangaluru,B.C.Road,Ordinary,Farangipete,16:00:00,2 PM - 6 PM
+377,Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",16:00:00,2 PM - 6 PM
+378,Mangaluru,B.C.Road,Ordinary,Farangipete,16:05:00,2 PM - 6 PM
+379,Mangaluru,Mudipu,Limited,Thokkottu,16:10:00,2 PM - 6 PM
+380,Mangaluru,Karwar,Volvo,Kumta,16:15:00,2 PM - 6 PM
+381,Mangaluru,Karadi,Express,Kumta,16:15:00,2 PM - 6 PM
+382,Mangaluru,Kundapura,Rajahamsa,Udupi,16:15:00,2 PM - 6 PM
+383,Mangaluru,B.C.Road,Ordinary,Farangipete,16:15:00,2 PM - 6 PM
+384,Mangaluru,Phajeer,Ordinary,Farangipete,16:15:00,2 PM - 6 PM
+385,Mangaluru,Mudipu,Limited,Thokkottu,16:20:00,2 PM - 6 PM
+386,Mangaluru,Mudigere,Express,"BC Road, Belthangadi",16:30:00,2 PM - 6 PM
+387,Mangaluru,Parapu,Limited,Thokkottu,16:30:00,2 PM - 6 PM
+388,Mangaluru,Kushtagi,Express,Kumta,16:30:00,2 PM - 6 PM
+389,Bengaluru,Kundapura,Multi Axle,Udupi,16:30:00,2 PM - 6 PM
+390,Mangaluru,Bengaluru,Express,Sakleshpura,16:30:00,2 PM - 6 PM
+391,Mangaluru,Subramanya,Limited,Uppinangadi,16:30:00,2 PM - 6 PM
+392,Mangaluru,B.C.Road,Ordinary,Farangipete,16:30:00,2 PM - 6 PM
+393,Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",16:30:00,2 PM - 6 PM
+394,Mangaluru,Kateelu,Limited,Surathkal,16:35:00,2 PM - 6 PM
+395,Panaji,Puttur,Express,B.C.Road,16:35:00,2 PM - 6 PM
+396,Mangaluru,Mudipu,Limited,Thokkottu,16:40:00,2 PM - 6 PM
+397,Mysuru,Udupi,Express,Mangaluru,16:40:00,2 PM - 6 PM
+398,Mangaluru,Muddebihal,Express,Kumta,16:45:00,2 PM - 6 PM
+399,Mangaluru,Rehamathnagar,Limited,Thokkottu,16:50:00,2 PM - 6 PM
+400,Mangaluru,Mudipu,Limited,Thokkottu,17:00:00,2 PM - 6 PM
+401,Mangaluru,Polali,Limited,Nanthur,17:00:00,2 PM - 6 PM
+402,Mangaluru,Guledagudda,Express,Kumta,17:00:00,2 PM - 6 PM
+403,Mysuru,Kundapura,Express,Udupi,17:00:00,2 PM - 6 PM
+404,Mangaluru,Kallugudde,Limited,Uppinangadi,17:00:00,2 PM - 6 PM
+405,Mangaluru,Raichur,Non Ac Sleeper,Udupi,17:00:00,2 PM - 6 PM
+406,Mangaluru,Kolar,Express,Mysuru,17:00:00,2 PM - 6 PM
+407,Mangaluru,B.C.Road,Ordinary,Farangipete,17:00:00,2 PM - 6 PM
+408,Mangaluru,Mermajalu,Ordinary,Farangipete,17:00:00,2 PM - 6 PM
+409,Mangaluru,Ballari,Express,"BC Road, Belthangadi",17:15:00,2 PM - 6 PM
+410,Mangaluru,Tawargera,Express,Kumta,17:15:00,2 PM - 6 PM
+411,Mangaluru,Bengaluru,Express,Sakleshpura,17:15:00,2 PM - 6 PM
+412,Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",17:15:00,2 PM - 6 PM
+413,Mangaluru,Bagalakote,Express,Kumta,17:20:00,2 PM - 6 PM
+414,Mangaluru,Kundapura,Express,Udupi,17:20:00,2 PM - 6 PM
+415,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",17:30:00,2 PM - 6 PM
+416,Mangaluru,Adyar padavu,Limited,Thokkottu,17:30:00,2 PM - 6 PM
+417,Mangaluru,Jamakhandi,Rajahamsa,Kumta,17:30:00,2 PM - 6 PM
+418,Karwar,Subramanya,Express,Uppinangadi,17:30:00,2 PM - 6 PM
+419,Mangaluru,Harappanahalli,Express,Udupi,17:30:00,2 PM - 6 PM
+420,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",17:45:00,2 PM - 6 PM
+421,Mangaluru,Kudala Sangama,Express,Kumta,17:45:00,2 PM - 6 PM
+422,Hubballi,Puttur,Express,Mysuru,17:45:00,2 PM - 6 PM
+423,Mangaluru,Mudipu,Limited,Thokkottu,17:55:00,2 PM - 6 PM
+424,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:00:00,6 PM - 10 PM
+425,Mangaluru,Ilkal,Express,Kumta,18:00:00,6 PM - 10 PM
+426,Mangaluru,Bengaluru,Express,Sakleshpura,18:00:00,6 PM - 10 PM
+427,Mangaluru,Mantralayam,Volvo,Udupi,18:00:00,6 PM - 10 PM
+428,Mangaluru,B.C.Road,Ordinary,Farangipete,18:00:00,6 PM - 10 PM
+429,Mangaluru,Dharmasthala,Express,"BC Road, Belthangadi",18:00:00,6 PM - 10 PM
+430,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:05:00,6 PM - 10 PM
+431,Mangaluru,Dotihal,Express,Kumta,18:05:00,6 PM - 10 PM
+432,Bengaluru,Udupi,Express,Udupi,18:05:00,6 PM - 10 PM
+433,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:10:00,6 PM - 10 PM
+434,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:15:00,6 PM - 10 PM
+435,Mangaluru,Dammur,Express,Kumta,18:15:00,6 PM - 10 PM
+436,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:20:00,6 PM - 10 PM
+437,Mangaluru,Charmadi,Limited,"BC Road, Belthangadi",18:25:00,6 PM - 10 PM
+438,Mangaluru,Mudipu,Limited,Thokkottu,18:25:00,6 PM - 10 PM
+439,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:25:00,6 PM - 10 PM
+440,Mangaluru,B.C.Road,Ordinary,Farangipete,18:25:00,6 PM - 10 PM
+441,Mangaluru,Hosapete,Express,"BC Road, Belthangadi",18:30:00,6 PM - 10 PM
+442,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:30:00,6 PM - 10 PM
+443,Mangaluru,Bagalakote,Express,Kumta,18:30:00,6 PM - 10 PM
+444,Mangaluru,Subramanya,Limited,Uppinangadi,18:30:00,6 PM - 10 PM
+445,Mangaluru,Bengaluru,Express,Mysuru,18:30:00,6 PM - 10 PM
+446,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:35:00,6 PM - 10 PM
+447,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:40:00,6 PM - 10 PM
+448,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:45:00,6 PM - 10 PM
+449,Mangaluru,Gadag,Express,Kumta,18:45:00,6 PM - 10 PM
+450,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:50:00,6 PM - 10 PM
+451,Mangaluru,Ganjihal,Express,Kumta,18:50:00,6 PM - 10 PM
+452,Mangaluru,Mudipu,Limited,Thokkottu,18:55:00,6 PM - 10 PM
+453,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",18:55:00,6 PM - 10 PM
+454,Mangaluru,Dharmasthala,Limited,"BC Road, Belthangadi",19:00:00,6 PM - 10 PM
+455,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",19:00:00,6 PM - 10 PM
+456,Mangaluru,Vijayapura,Non Ac Sleeper,Kumta,19:00:00,6 PM - 10 PM
+457,Mangaluru,Kamatagi,Express,Kumta,19:00:00,6 PM - 10 PM
+458,Mangaluru,Bengaluru,Express,Sakleshpura,19:00:00,6 PM - 10 PM
+459,Mangaluru,Ballari,Non Ac Sleeper,Udupi,19:00:00,6 PM - 10 PM
+460,Mangaluru,B.C.Road,Ordinary,Farangipete,19:00:00,6 PM - 10 PM
+461,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",19:08:00,6 PM - 10 PM
+462,Mangaluru,Kabbaragi,Express,Kumta,19:15:00,6 PM - 10 PM
+463,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",19:16:00,6 PM - 10 PM
+464,Mangaluru,Mudipu,Limited,Thokkottu,19:20:00,6 PM - 10 PM
+465,Mangaluru,Hungund,Express,Kumta,19:20:00,6 PM - 10 PM
+466,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",19:24:00,6 PM - 10 PM
+467,Mangaluru,Bagalakote,Express,Kumta,19:30:00,6 PM - 10 PM
+468,Mangaluru,Bengaluru,Express,Sakleshpura,19:30:00,6 PM - 10 PM
+469,Mangaluru,Sandur,Non Ac Sleeper,Hosapete,19:30:00,6 PM - 10 PM
+470,Mangaluru,Mysuru,Express,Madikeri,19:30:00,6 PM - 10 PM
+471,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",19:32:00,6 PM - 10 PM
+472,Mangaluru,"Ankalimata, Talekat",Express,Kumta,19:35:00,6 PM - 10 PM
+473,Mangaluru,Bengaluru,Multi Axle,Sakleshpura,19:35:00,6 PM - 10 PM
+474,Mangaluru,Adyar padavu,Limited,Thokkottu,19:40:00,6 PM - 10 PM
+475,Mangaluru,Kasaragod,Limited,"Thokkottu, Kumble",19:40:00,6 PM - 10 PM
+476,Mangaluru,Muddebihal,Express,Kumta,19:45:00,6 PM - 10 PM
+477,Mangaluru,Bengaluru,Non Ac Sleeper,Sakleshpura,19:45:00,6 PM - 10 PM
+478,Mangaluru,Amingad,Express,Kumta,19:50:00,6 PM - 10 PM
+479,Mangaluru,Belagavi,Non Ac Sleeper,Kumta,20:00:00,6 PM - 10 PM
+480,Mangaluru,Bengaluru,Express,Sakleshpura,20:00:00,6 PM - 10 PM
+481,Mangaluru,Davanagere,Non Ac Sleeper,Udupi,20:00:00,6 PM - 10 PM
+482,Mangaluru,Davanagere,Express,"BC Road, Belthangadi",20:05:00,6 PM - 10 PM
+483,Mangaluru,Bagalakote,Express,Kumta,20:05:00,6 PM - 10 PM
+484,Mangaluru,Bengaluru,Express,Sakleshpura,20:14:00,6 PM - 10 PM
+485,Mangaluru,Kushtagi,Express,Kumta,20:15:00,6 PM - 10 PM
+486,Mangaluru,Challakere,Rajahamsa,Udupi,20:15:00,6 PM - 10 PM
+487,Mangaluru,Bilagi,Express,Kumta,20:30:00,6 PM - 10 PM
+488,Mangaluru,Ranebennur,Express,Kundapura,20:30:00,6 PM - 10 PM
+489,Mangaluru,Ramdurg,Non Ac Sleeper,Kumta,20:30:00,6 PM - 10 PM
+490,Mangaluru,Bengaluru,Non Ac Sleeper,Sakleshpura,20:30:00,6 PM - 10 PM
+491,Mangaluru,Bengaluru,Express,Sakleshpura,20:40:00,6 PM - 10 PM
+492,Mangaluru,Bengaluru,Multi Axle,Sakleshpura,20:43:00,6 PM - 10 PM
+493,Mangaluru,Gajendragad,Express,Kumta,20:45:00,6 PM - 10 PM
+494,Mangaluru,Tirupati,Multi Axle,Sakleshpura,20:51:00,6 PM - 10 PM
+495,Mangaluru,Bengaluru,Non Ac Sleeper,Sakleshpura,20:55:00,6 PM - 10 PM
+496,Mangaluru,Ernakulam,Multi Axle,Kasaragod,21:00:00,6 PM - 10 PM
+497,Mangaluru,Koppal,Express,Kumta,21:00:00,6 PM - 10 PM
+498,Mangaluru,Bengaluru,Express,Sakleshpura,21:00:00,6 PM - 10 PM
+499,Mangaluru,Bengaluru,Rajahamsa,Sakleshpura,21:00:00,6 PM - 10 PM
+500,Mangaluru,Davanagere,Express,Udupi,21:00:00,6 PM - 10 PM
+501,Mangaluru,Ooty,Rajahamsa,Madikeri,21:00:00,6 PM - 10 PM
+502,Mangaluru,Badami,Express,Kumta,21:15:00,6 PM - 10 PM
+503,Mangaluru,Davanagere,Non Ac Sleeper,Udupi,21:15:00,6 PM - 10 PM
+504,Mangaluru,Bengaluru,Rajahamsa,Sakleshpura,21:25:00,6 PM - 10 PM
+505,Mangaluru,Bengaluru,Multi Axle,Mysuru,21:28:00,6 PM - 10 PM
+506,Mangaluru,Gajendragad,Express,Kumta,21:30:00,6 PM - 10 PM
+507,Mangaluru,Ballari,Express,Udupi,21:30:00,6 PM - 10 PM
+508,Mangaluru,Mysuru,Rajahamsa,Madikeri,21:30:00,6 PM - 10 PM
+509,Mangaluru,Bengaluru Airport,Multi Axle,Sakleshpura,21:35:00,6 PM - 10 PM
+510,Mangaluru,Bengaluru,Non Ac Sleeper,Sakleshpura,21:36:00,6 PM - 10 PM
+511,Mangaluru,Bengaluru,Non Ac Sleeper,Mysuru,21:44:00,6 PM - 10 PM
+512,Mangaluru,Bengaluru,Multi Axle,Sakleshpura,21:45:00,6 PM - 10 PM
+513,Mangaluru,Bengaluru,Non Ac Sleeper,Sakleshpura,21:59:00,6 PM - 10 PM
+514,Mangaluru,Bengaluru,Dream class,Sakleshpura,22:00:00,10 PM - 2 AM
+515,Mangaluru,Bengaluru,Rajahamsa,Sakleshpura,22:00:00,10 PM - 2 AM
+516,Mangaluru,Davanagere,Non Ac Sleeper,Udupi,22:00:00,10 PM - 2 AM
+517,Mangaluru,Mysuru,Express,Madikeri,22:00:00,10 PM - 2 AM
+518,Udupi,Mysuru,Express,Madikeri,22:00:00,10 PM - 2 AM
+519,Mangaluru,Bengaluru,Express,Sakleshpura,22:10:00,10 PM - 2 AM
+520,Mangaluru,Bengaluru,Multi Axle,Sakleshpura,22:12:00,10 PM - 2 AM
+521,Mangaluru,Bengaluru,Multi Axle,Sakleshpura,22:15:00,10 PM - 2 AM
+522,Mangaluru,Bengaluru,Rajahamsa,Sakleshpura,22:20:00,10 PM - 2 AM
+523,Mangaluru,Bengaluru,Non Ac Sleeper,Sakleshpura,22:22:00,10 PM - 2 AM
+524,Mangaluru,Yellapur,Express,Kumta,22:30:00,10 PM - 2 AM
+525,Mangaluru,Bengaluru,Non Ac Sleeper,Sakleshpura,22:30:00,10 PM - 2 AM
+526,Mangaluru,Bengaluru,Multi Axle,Sakleshpura,22:35:00,10 PM - 2 AM
+527,Mangaluru,Bengaluru,Dream class,Sakleshpura,22:40:00,10 PM - 2 AM
+528,Mangaluru,Bengaluru,Dream class,Sakleshpura,22:40:00,10 PM - 2 AM
+529,Mangaluru,Bengaluru,Multi Axle,Sakleshpura,22:45:00,10 PM - 2 AM
+530,Mangaluru,Mysuru,Rajahamsa,Madikeri,22:45:00,10 PM - 2 AM
+531,Manipal,Mysuru,Non Ac Sleeper,Madikeri,22:45:00,10 PM - 2 AM
+532,Mangaluru,Laxmeshwar,Express,Kumta,23:00:00,10 PM - 2 AM
+533,Mangaluru,Bengaluru,Non Ac Sleeper,Sakleshpura,23:00:00,10 PM - 2 AM
+534,Mangaluru,Bengaluru,Rajahamsa,Sakleshpura,23:00:00,10 PM - 2 AM
+535,Mangaluru,Mandya,Non Ac Sleeper,Madikeri,23:00:00,10 PM - 2 AM
+536,Mangaluru,Bengaluru,Multi Axle,Mysuru,23:00:00,10 PM - 2 AM
+537,Mangaluru,Bengaluru,Non Ac Sleeper,Sakleshpura,23:10:00,10 PM - 2 AM
+538,Mangaluru,Bengaluru,Multi Axle,Sakleshpura,23:15:00,10 PM - 2 AM
+539,Mangaluru,Bengaluru,Dream class,Sakleshpura,23:15:00,10 PM - 2 AM
+540,Mangaluru,Bengaluru,Dream class,Sakleshpura,23:20:00,10 PM - 2 AM
+541,Mangaluru,Bengaluru,Multi Axle,Sakleshpura,23:30:00,10 PM - 2 AM
+542,Udupi,Mysuru,Multi Axle,Madikeri,23:45:00,10 PM - 2 AM

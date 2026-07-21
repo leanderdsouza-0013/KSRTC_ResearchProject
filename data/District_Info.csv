@@ -1,0 +1,43 @@
+District,State,Population_Millions,Urbanisation Level,Region_Type,Interstate_Flag
+Bangalore  ,Karnataka,10.96,Very High,Top Urban,No
+Pune,Maharashtra,10.48,Very High,Top Urban,Yes
+Mumbai Suburban ,Maharashtra,10.4,Very High,Top Urban,Yes
+Belagavi,Karnataka,5.44,Very High,Top Urban,No
+Hyderabad,Telangana,4.28,Very High,Top Urban,Yes
+Coimbatore,Tamil Nadu,4.01,Very High,Top Urban,Yes
+Madurai,Tamil Nadu,3.52,Very High,Top Urban,Yes
+Mysore,Karnataka,3.42,Very High,Top Urban,No
+Ernakulam,Kerala,3.41,Very High,Top Urban,Yes
+Tumkur,Karnataka,3.05,Very High,Top Urban,No
+Gulbarga,Karnataka,2.92,Very High,Top Urban,No
+Bellary,Karnataka,2.79,High,Mid Urban,No
+Bijapur,Karnataka,2.48,High,Mid Urban,No
+Dakshina Kannada,Karnataka,2.38,High,Mid Urban,No
+Kurnool,Andhra Pradesh,2.27,High,Mid Urban,Yes
+Davanagere,Karnataka,2.22,High,Mid Urban,No
+Raichur,Karnataka,2.2,High,Mid Urban,No
+Tirupati,Andhra Pradesh,2.2,High,Mid Urban,Yes
+Bagalkot,Karnataka,2.15,Moderate,Semi Urban,No
+Dharwad,Karnataka,2.1,Moderate,Semi Urban,No
+Mandya,Karnataka,2.06,Moderate,Semi Urban,No
+Hassan,Karnataka,2.02,Moderate,Semi Urban,No
+Shimoga,Karnataka,2,Moderate,Semi Urban,No
+Bidar,Karnataka,1.94,Medium,Semi Rural,No
+Chitradurga,Karnataka,1.89,Medium,Semi Rural,No
+Sri Sathya Sai,Andhra Pradesh,1.84,Medium,Semi Rural,Yes
+Haveri,Karnataka,1.82,Medium,Semi Rural,No
+Kolar,Karnataka,1.75,Medium,Semi Rural,No
+Uttara Kannada,Karnataka,1.64,Medium,Semi Rural,No
+Koppal,Karnataka,1.58,Low,Mid Rural,No
+Chikkaballapur,Karnataka,1.43,Low,Mid Rural,No
+Kasaragod,Kerala,1.36,Low,Mid Rural,Yes
+Udupi,Karnataka,1.34,Low,Mid Rural,No
+Yadgir,Karnataka,1.34,Low,Mid Rural,No
+Chikmagalur,Karnataka,1.3,Low,Mid Rural,No
+Ramanagara,Karnataka,1.23,Very Low,Top Rural,No
+Gadag,Karnataka,1.21,Very Low,Top Rural,No
+Chamarajanagar,Karnataka,1.16,Very Low,Top Rural,No
+Bangalore Rural,Karnataka,1.12,Very Low,Top Rural,No
+The Nilgiris,Tamil Nadu,0.85,Very Low,Top Rural,Yes
+North Goa,Goa,0.85,Very Low,Top Rural,Yes
+Kodagu,Karnataka,0.63,Very Low,Top Rural,No
