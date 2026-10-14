@@ -96,8 +96,9 @@ The analysis can help identify potentially less crowded travel periods within th
 
 ## Author
 
-Leander Chris Dsouza
-MCA in Data Science | Minor in Big Data Analytics
+**Leander Chris Dsouza**
+
 - LinkedIn: [Leander Chris Dsouza](https://www.linkedin.com/in/leander-chris/)
+- GitHub: [leanderdsouza-0013](https://github.com/leanderdsouza-0013)
 
 
